@@ -1,7 +1,10 @@
 {
   // Cloudflare Workers 配置：部署官网静态资源（Hugo 构建产物 public/）
-  // 部署命令：hugo --minify --gc --source <www目录> && npx wrangler deploy
-  "name": "www",
+  // 部署命令：hugo --minify --gc && npx wrangler deploy --config wrangler.jsonc（仓库名 2026-11-22 自 www 改为 xomaps.com）
+  // Worker 名不允许带点，用 xomaps-com（旧 worker "www" 2026-11-22 已删）
+  // ⚠️ 路由/DNS 待办：zone xomaps.com 目前不在此 CF 账号（wrangler deploy 实测 "Could not find zone"），
+  //    zone 落位本账号后在此加 "routes": [{ "pattern": "www.xomaps.com", "zone_name": "xomaps.com" }] 并重新 deploy
+  "name": "xomaps-com",
   "compatibility_date": "2026-11-01",
   "assets": {
     "directory": "./public",
