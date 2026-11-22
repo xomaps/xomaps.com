@@ -1,0 +1,42 @@
+name: Deploy to Cloudflare Workers
+
+# 推送 main 自动部署 CF Worker xomaps-com（Hugo 构建 public/ 后 wrangler deploy）
+# 前置：仓库 Secrets 配置 CLOUDFLARE_API_TOKEN
+#   （CF 控制台 → My Profile → API Tokens → Create Token → 模板 "Edit Cloudflare Workers"）
+# 注意：构建用 hugo.toml 默认 baseURL（与历次本地手动部署完全一致）
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"
+      - "docs/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cf-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    if: ${{ github.repository_owner == 'xomaps' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Hugo (extended)
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.169.0"
+          extended: true
+
+      - name: Build
+        run: hugo --minify --gc
+
+      - name: Deploy to Cloudflare Workers
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: npx -y wrangler@latest deploy --config wrangler.jsonc
