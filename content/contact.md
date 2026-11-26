@@ -1,6 +1,6 @@
 ---
 title: "联系信朴科技 | 软件授权与私有化部署咨询 - 信朴科技"
-description: "联系信朴科技：商务咨询 18926108189，地址广州市天河区金穗路1号邦华广场16楼。无论是软件授权、SaaS 订阅、私有化部署全包交付，还是企业 AI 落地规划，均可在线留言获取方案与报价。"
+description: "联系信朴科技：商务咨询 18926108189，地址广州市天河区金穗路1号邦华广场。无论是软件授权、SaaS 订阅、私有化部署全包交付，还是企业 AI 落地规划，均可在线留言获取方案与报价。"
 keywords: "软件授权,私有化部署,一站式交付,企业AI落地,商务咨询,信朴科技"
 nav: "contact"
 date: 2026-11-18
@@ -736,7 +736,7 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 <div class="sec-head">
 <div class="sec-eyebrow">LOCATION</div>
 <h2 class="sec-title">来访信朴科技，<span class="em">我们在广州天河</span></h2>
-<p class="sec-desc">公司位于广州市天河区金穗路1号邦华广场16楼，欢迎预约来访。</p>
+<p class="sec-desc">公司位于广州市天河区金穗路1号邦华广场，欢迎预约来访。</p>
 </div>
 
 <div class="addr-section">
@@ -750,7 +750,7 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 </div>
 <div>
 <div class="ar-k">公司地址</div>
-<div class="ar-v">广州市天河区金穗路1号邦华广场16楼
+<div class="ar-v">广州市天河区金穗路1号邦华广场
 <span class="sub">广东省广州市天河区</span>
 </div>
 </div>
@@ -822,7 +822,7 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 </div>
 </div>
 <div class="map-foot">
-<span>广州市天河区金穗路1号邦华广场16楼</span>
+<span>广州市天河区金穗路1号邦华广场</span>
 <a href="https://map.qq.com/search/广州信朴科技有限公司" target="_blank" rel="noopener">
 打开地图导航
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6M10 14L21 3"/></svg>
