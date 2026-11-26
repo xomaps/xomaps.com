@@ -1,8 +1,8 @@
 ---
 title: "知识产权行业 AI 落地案例：借助 AI 实现业务流程提效 - 信朴科技"
-description: "以知识问答Agent与文档生成Agent定制切入专利商标服务，文档处理提效70%，从海量专业文档处理到专业问答，把资深人员时间还给高价值判断，知识产权行业AI落地标杆案例。
+description: "以知识问答Agent与文档生成Agent定制切入专利商标服务，文档处理显著提效，从海量专业文档处理到专业问答，把资深人员时间还给高价值判断，知识产权行业AI落地标杆案例。
 "
-keywords: "AI落地,企业AI,Agent定制,AI提效,华进联合AI,知识产权AI,知识问答Agent,信朴科技"
+keywords: "AI落地,企业AI,Agent定制,AI提效,某知识产权机构AI,知识产权AI,知识问答Agent,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -475,12 +475,12 @@ background-size:48px 48px;pointer-events:none;
 <div class="sol">
 <div class="step"><span class="zh">生</span><span class="tag">Generate</span></div>
 <h4>文档生成 Agent · 让撰写提速</h4>
-<p>FDE 现场共创，构建专利申请、答复、商标注册文档生成 Agent，辅助撰写初稿，资深代理师聚焦修改与判断，文档处理提效 70%。</p>
+<p>FDE 现场共创，构建专利申请、答复、商标注册文档生成 Agent，辅助撰写初稿，资深代理师聚焦修改与判断，文档处理显著提效。</p>
 </div>
 <div class="sol">
 <div class="step"><span class="zh">检</span><span class="tag">Search</span></div>
 <h4>智能检索 + 知识库 · 让分析提速</h4>
-<p>构建企业知识库底座与智能检索，专利对比、相似检索自动化，检索分析提速 50%，新人上手周期缩短。</p>
+<p>构建企业知识库底座与智能检索，专利对比、相似检索自动化，检索分析显著提速，新人上手周期缩短。</p>
 </div>
 <div class="sol">
 <div class="step"><span class="zh">管</span><span class="tag">Govern</span></div>
@@ -501,27 +501,27 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>场景定义与诊断</h4>
-<p>深入专利、商标、涉外知识产权团队访谈，梳理 10 个候选场景，按「价值 × 可行性」筛选出知识问答、文档生成、智能检索三个首批场景。</p>
+<p>深入专利、商标、涉外知识产权团队访谈，梳理多类候选场景，按「价值 × 可行性」筛选出知识问答、文档生成、智能检索等首批场景。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–4 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>知识流程梳理</h4>
 <p>梳理专利法、商标法、涉外知识产权知识体系与文档模板，构建企业知识库底座，明确数据安全与权限边界。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 5–8 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>原型开发与试点</h4>
 <p>FDE 团队驻场开发三个 Agent 原型；文档生成 Agent 在专利组小范围试用，知识问答 Agent 在新人组试用，快速迭代。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 9–12 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>推广交接</h4>
 <p>试点验证后逐步推广，知识问答 Agent 全员可用，文档生成 Agent 覆盖核心文档类型；Token 统一供应与用量治理同步上线。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 13–16 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>资产沉淀与持续陪跑</h4>
 <p>把知识、模板、提示词沉淀为企业资产全量交接；持续陪跑新场景，代理师团队开始主动提出新的 AI 需求。</p>
 </div>
@@ -537,7 +537,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>文档处理提效 70%</strong>，专利申请与答复初稿撰写周期明显缩短；<strong>检索分析提速 50%</strong>，专利对比与相似检索自动化；知识问答 Agent 让新人专业问答即时作答，模型用量成本稳定在官网约 45 折。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>文档处理显著提效</strong>，专利申请与答复初稿撰写周期明显缩短；<strong>检索分析显著提速</strong>，专利对比与相似检索自动化；知识问答 Agent 让新人专业问答即时作答，模型用量成本稳定在官网约 45 折。</p>
 <p>更重要的是组织能力的变化——代理师团队开始<strong>主动</strong>提出新的 AI 场景需求，资深人员从重复劳动中解放，专注高价值的专业判断。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -554,7 +554,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">国内知名知识产权服务机构</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">知识产权 · 专业服务</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">16 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">FDE 现场 + 知识架构师 + 培训讲师</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 7 月</span></div>
 </div>
@@ -597,7 +597,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 科技企业</div>
-<h3>SaaS 平台的 AI 原生升级：4 类智能 Agent 嵌入产品</h3>
+<h3>SaaS 平台的 AI 原生升级：智能 Agent 嵌入产品</h3>
 <div class="rs">
 <div><div class="num">4<span class="unit">类</span></div><div class="label">智能 Agent 上线</div></div>
 <div><div class="num">FDE<span class="unit"></span></div><div class="label">现场共创交付</div></div>
@@ -613,7 +613,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 金融科技</div>
-<h3>支付机构的知识问答 Agent：客服响应效率提升 40%</h3>
+<h3>支付机构的知识问答 Agent：客服响应效率显著提升</h3>
 <div class="rs">
 <div><div class="num">40<span class="unit">%</span></div><div class="label">响应效率提升</div></div>
 <div><div class="num">3<span class="unit">类</span></div><div class="label">运营 Agent 上线</div></div>

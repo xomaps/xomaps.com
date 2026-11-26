@@ -1,12 +1,11 @@
 ---
-title: "关于信朴科技 | 腾讯云华南殿堂级服务商 | 企业AI落地 - 信朴科技"
-description: "广州信朴科技有限公司是腾讯云华南殿堂级服务商、华南最大代理商，团队近30人，研发与专业技术人员占76%，累计服务超万家企业，提供企业AI落地、AI培训、Agent定制全链路支持。
-"
-keywords: "腾讯云,企业AI,AI落地,AI培训,Agent定制,腾讯云殿堂级服务商,信朴科技,广州信朴科技"
+title: "关于信朴科技 | 自研软件产品与企业 AI 落地服务商"
+description: "信朴科技以自研底座为支撑，自研业务系统与 Agent 在真实业务中每日生产运行；软件产权自有、按授权交付，支持 SaaS 订阅与私有化部署，并提供企业 AI 落地、Agent 定制、AI 原生研发与云与托管 IT 服务。"
+keywords: "自研软件,软件产权,企业AI落地,Agent定制,AI原生研发,私有化部署,信朴科技"
 nav: "about"
 date: 2026-11-18
 draft: false
----
+------
 
 <style>
 :root{
@@ -272,17 +271,17 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <!-- ══════════ Hero ══════════ -->
 <header class="hero">
 <div class="wrap">
-<div class="hero-eyebrow">企业 AI 能力建设服务商 · 腾讯云华南殿堂级服务商</div>
+<div class="hero-eyebrow">企业 AI 能力建设与应用落地服务商 · 自研软件产品产权自有</div>
 <h1>
 <span class="line1">认识信朴科技</span>
 <span class="line2">让 AI 真正走进企业业务流程</span>
 </h1>
-<p class="sub">源自腾讯云计算服务经验，累计服务超万家企业客户，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持。</p>
+<p class="sub">以自研软件产品为底座，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持。</p>
 <div class="hero-chips">
-<span>腾讯云华南殿堂级服务商</span>
-<span>累计服务超万家企业</span>
-<span>覆盖 15+ 行业</span>
-<span>研发人员占比 76%</span>
+<span>自研软件产品产权自有</span>
+<span>SaaS 订阅与私有化部署</span>
+<span>企业微信应用上架</span>
+<span>云市场入驻服务商</span>
 </div>
 <div class="hero-cta">
 <a href="/contact.html#form" class="btn btn-accent btn-lg">联系信朴科技</a>
@@ -314,7 +313,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 
 <div class="intro">
 <div class="intro-text">
-<p class="lead">广州信朴科技有限公司源自腾讯云计算服务经验，是腾讯云华南殿堂级服务商，累计服务超过万家企业客户。</p>
+<p class="lead">广州信朴科技有限公司以自研软件产品为底座，是企业 AI 能力建设与应用落地服务商。</p>
 <p>围绕企业 AI 落地，信朴科技提供从前期<strong>咨询、能力培训、工具与模型服务</strong>，到<strong>知识库、Agent 定制和组织内化建设</strong>的一体化支持。我们相信，真正有效的 AI 建设，需要让员工不仅「听懂 AI」，更能在岗位中用起来，并把有效做法沉淀为企业长期能力。</p>
 <p>信朴科技支持从一个课程、一个部门或一个 Agent 开始，也可以协助企业规划从能力普及到应用落地的完整建设项目——以咨询定方向，以实操培育人，以工具承载场景，以应用实现价值。</p>
 </div>
@@ -322,8 +321,8 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <h4>公司概况</h4>
 <div class="row"><span class="k">公司全称</span><span class="v">广州信朴科技有限公司</span></div>
 <div class="row"><span class="k">公司定位</span><span class="v">企业 AI 能力建设与应用落地服务商</span></div>
-<div class="row"><span class="k">资质等级</span><span class="v">腾讯云华南殿堂级服务商（最高级）</span></div>
-<div class="row"><span class="k">代理地位</span><span class="v">腾讯云在华南最大代理商</span></div>
+<div class="row"><span class="k">产品形态</span><span class="v">SaaS 订阅与私有化部署双形态</span></div>
+<div class="row"><span class="k">交付能力</span><span class="v">云市场与企业微信应用上架</span></div>
 <div class="row"><span class="k">公司地址</span><span class="v">广州市天河区金穗路1号邦华广场16楼</span></div>
 <div class="row"><span class="k">商务联系</span><span class="v">冯小姐 18926108189</span></div>
 </div>
@@ -335,43 +334,43 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <section class="stats-section">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">KEY FIGURES</div>
-<h2 class="sec-title">用数字说明，<span class="em">信朴科技是谁</span></h2>
-<p class="sec-desc">从团队规模到服务覆盖，每一个数字背后都是真实的企业 AI 落地实践。</p>
+<div class="sec-eyebrow">CAPABILITIES</div>
+<h2 class="sec-title">自研底座支撑，<span class="em">按授权交付</span></h2>
+<p class="sec-desc">从产品形态到交付方式，每一项能力都围绕企业 AI 真实落地构建。</p>
 </div>
 
 <div class="stats-grid">
 <div class="stat-card">
-<div class="stat-num"><span class="accent">10000</span><span class="unit">+</span></div>
-<div class="stat-label">累计服务企业客户</div>
+<div class="stat-num"><span class="accent">自研</span></div>
+<div class="stat-label">软件产品产权自有</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">15</span><span class="unit">+</span></div>
-<div class="stat-label">覆盖行业领域</div>
+<div class="stat-num"><span class="accent">双形态</span></div>
+<div class="stat-label">SaaS 订阅与私有化部署</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">30</span><span class="unit">人</span></div>
-<div class="stat-label">团队规模</div>
+<div class="stat-num"><span class="accent">全包</span></div>
+<div class="stat-label">域名、服务器、证书与解析一站式</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">76</span><span class="unit">%</span></div>
-<div class="stat-label">研发与专业技术人员占比</div>
+<div class="stat-num"><span class="accent">企微</span></div>
+<div class="stat-label">企业微信应用上架</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">90</span><span class="unit">%</span></div>
-<div class="stat-label">本科以上学历</div>
+<div class="stat-num"><span class="accent">云市场</span></div>
+<div class="stat-label">云市场服务商入驻</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">20</span><span class="unit">%</span></div>
-<div class="stat-label">硕士以上学历</div>
+<div class="stat-num"><span class="accent">开放</span></div>
+<div class="stat-label">开放接口与生态接入</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">1</span><span class="unit">亿</span></div>
-<div class="stat-label">年销售额</div>
+<div class="stat-num"><span class="accent">闭环</span></div>
+<div class="stat-label">学 · 用 · 建 · 管方法论</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">28</span><span class="unit">岁</span></div>
-<div class="stat-label">团队平均年龄</div>
+<div class="stat-num"><span class="accent">长期</span></div>
+<div class="stat-label">版本持续迭代与本地支持</div>
 </div>
 </div>
 </div>
@@ -382,20 +381,20 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">OUR JOURNEY</div>
-<h2 class="sec-title">从云服务到 AI 落地，<span class="em">一路跑通真实业务</span></h2>
-<p class="sec-desc">信朴科技的起点是腾讯云计算服务，随着企业需求演进，逐步把能力延伸到 AI 能力建设与应用落地全链路。</p>
+<h2 class="sec-title">从软件研发到 AI 落地，<span class="em">一路跑通真实业务</span></h2>
+<p class="sec-desc">信朴科技从软件产品研发起步，随着企业需求演进，逐步把能力延伸到 AI 能力建设与应用落地全链路。</p>
 </div>
 
 <div class="timeline">
 <div class="tl-item">
-<div class="tl-stage">PHASE 01 · 云服务起步</div>
-<h4>源自腾讯云计算服务经验</h4>
-<p>以腾讯云代理与云服务为起点，服务华南地区企业客户，积累云计算、基础设施与数字化项目经验，成为腾讯云在华南的重要合作伙伴。</p>
+<div class="tl-stage">PHASE 01 · 产品起步</div>
+<h4>自研软件产品立项研发</h4>
+<p>以自研 SaaS 产品研发为起点，打磨软件底座、开放接口与部署体系，形成自主可控的产品能力。</p>
 </div>
 <div class="tl-item">
-<div class="tl-stage">PHASE 02 · 资质升级</div>
-<h4>腾讯云华南殿堂级服务商</h4>
-<p>服务能力与客户规模持续增长，获得腾讯云华南殿堂级服务商（最高级）认证，并成为腾讯云在华南最大代理商，年销售额约 1 亿元。</p>
+<div class="tl-stage">PHASE 02 · 双形态交付</div>
+<h4>SaaS 订阅与私有化部署</h4>
+<p>产品支持 SaaS 订阅与私有化部署双形态交付，软件产权自有、按授权交付，可按客户环境完成全包交付与运维托管。</p>
 </div>
 <div class="tl-item">
 <div class="tl-stage">PHASE 03 · 服务延伸</div>
@@ -409,8 +408,8 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 </div>
 <div class="tl-item">
 <div class="tl-stage">PHASE 05 · 行业验证</div>
-<h4>累计服务超万家企业，覆盖 15+ 行业</h4>
-<p>服务广汽埃安、如祺出行、广日电梯、国民技术、中国邮政云南等标杆客户，把 AI 真正落进制造业、出行、装备、半导体、金融科技等行业的真实业务流程。</p>
+<h4>跨行业验证，落地进真实业务</h4>
+<p>合作实践覆盖制造、出行、装备、半导体、金融科技等行业，把 AI 真正落进企业的真实业务流程。</p>
 </div>
 </div>
 </div>
@@ -494,8 +493,8 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">OUR TEAM</div>
-<h2 class="sec-title">近 30 人的团队，<span class="em">年轻、专业、懂业务</span></h2>
-<p class="sec-desc">研发与专业技术人员占比 76%，本科以上学历约 90%、硕士以上约 20%，平均年龄 28 岁——既懂技术，也愿意走进客户现场。</p>
+<h2 class="sec-title">研发驱动的团队，<span class="em">既懂技术也懂业务</span></h2>
+<p class="sec-desc">以研发与专业技术人员为主体——既懂技术，也愿意走进客户现场。</p>
 </div>
 
 <div class="team-grid">
@@ -504,7 +503,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 18l6-6-6-6M8 6l-6 6 6 6"/></svg>
 </div>
 <h4>研发与技术人员</h4>
-<div class="team-tag">占比 76%</div>
+<div class="team-tag">研发为主体</div>
 <p>覆盖云服务、模型应用、Agent 开发、知识库建设与 FDE 现场工程，是把方案落进真实业务的核心力量。</p>
 </div>
 <div class="team-card">
@@ -573,7 +572,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <section id="why">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
+<div class="sec-eyebrow">WHY XOMAPS<sup></sup></div>
 <h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2>
 <p class="sec-desc">信朴科技不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p>
 </div>
@@ -616,7 +615,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
-<h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
+<h2 class="sec-title">跨行业实践，<span class="em">自研底座持续沉淀</span></h2>
 <p class="sec-desc">信朴科技的合作实践覆盖企业 AI 咨询、能力培养、工具导入和业务场景应用建设，客户来自制造业、服务业与科技专业服务三大板块。</p>
 </div>
 
@@ -645,26 +644,26 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">CLIENTS</div>
-<h2 class="sec-title">15+ 行业头部企业的，<span class="em">共同选择</span></h2>
+<h2 class="sec-title">多行业企业的，<span class="em">共同选择</span></h2>
 <p class="sec-desc">这些客户在 AI 咨询、能力培养、工具导入和业务场景应用建设中选择了信朴科技。</p>
 </div>
 
 <div class="client-grid">
-<div class="client-card"><div class="client-name">广汽埃安</div><div class="client-ind">新能源汽车</div></div>
-<div class="client-card"><div class="client-name">如祺出行</div><div class="client-ind">出行平台</div></div>
-<div class="client-card"><div class="client-name">广日电梯</div><div class="client-ind">装备制造</div></div>
-<div class="client-card"><div class="client-name">国民技术</div><div class="client-ind">半导体</div></div>
-<div class="client-card"><div class="client-name">中国邮政云南</div><div class="client-ind">邮政服务</div></div>
-<div class="client-card"><div class="client-name">云图知行</div><div class="client-ind">科技服务</div></div>
-<div class="client-card"><div class="client-name">噗噗游戏</div><div class="client-ind">游戏</div></div>
-<div class="client-card"><div class="client-name">长兴润德</div><div class="client-ind">教育科技</div></div>
-<div class="client-card"><div class="client-name">致远电子</div><div class="client-ind">工业电子</div></div>
-<div class="client-card"><div class="client-name">香蕉攀岩</div><div class="client-ind">运动休闲</div></div>
-<div class="client-card"><div class="client-name">企知道</div><div class="client-ind">企业服务 SaaS</div></div>
-<div class="client-card"><div class="client-name">八方锦程</div><div class="client-ind">人力资源</div></div>
-<div class="client-card"><div class="client-name">东鹏陶瓷</div><div class="client-ind">建材陶瓷</div></div>
-<div class="client-card"><div class="client-name">华进联合</div><div class="client-ind">知识产权</div></div>
-<div class="client-card"><div class="client-name">银盛支付</div><div class="client-ind">金融科技</div></div>
+<div class="client-card"><div class="client-name">某新能源汽车企业</div><div class="client-ind">新能源汽车</div></div>
+<div class="client-card"><div class="client-name">某智慧出行平台</div><div class="client-ind">出行平台</div></div>
+<div class="client-card"><div class="client-name">某装备制造企业</div><div class="client-ind">装备制造</div></div>
+<div class="client-card"><div class="client-name">某半导体企业</div><div class="client-ind">半导体</div></div>
+<div class="client-card"><div class="client-name">某邮政物流企业</div><div class="client-ind">邮政服务</div></div>
+<div class="client-card"><div class="client-name">某科技服务机构</div><div class="client-ind">科技服务</div></div>
+<div class="client-card"><div class="client-name">某游戏研发企业</div><div class="client-ind">游戏</div></div>
+<div class="client-card"><div class="client-name">某教育科技企业</div><div class="client-ind">教育科技</div></div>
+<div class="client-card"><div class="client-name">某工业电子企业</div><div class="client-ind">工业电子</div></div>
+<div class="client-card"><div class="client-name">某运动连锁品牌</div><div class="client-ind">运动休闲</div></div>
+<div class="client-card"><div class="client-name">某企业服务平台</div><div class="client-ind">企业服务 SaaS</div></div>
+<div class="client-card"><div class="client-name">某人力资源机构</div><div class="client-ind">人力资源</div></div>
+<div class="client-card"><div class="client-name">某建材陶瓷企业</div><div class="client-ind">建材陶瓷</div></div>
+<div class="client-card"><div class="client-name">某知识产权机构</div><div class="client-ind">知识产权</div></div>
+<div class="client-card"><div class="client-name">某金融科技企业</div><div class="client-ind">金融科技</div></div>
 </div>
 </div>
 </section>
@@ -674,18 +673,18 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">HONORS & ENDORSEMENT</div>
-<h2 class="sec-title">权威认可与<span class="em">资质背书</span></h2>
-<p class="sec-desc">腾讯云华南殿堂级服务商（最高级）、腾讯云在华南最大代理商，长期服务行业头部客户。</p>
+<h2 class="sec-title">我们的能力与<span class="em">交付承诺</span></h2>
+<p class="sec-desc">自研软件产品产权自有，按授权交付，长期服务行业客户。</p>
 </div>
 
 <div class="honor-list">
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云华南殿堂级服务商（最高级）</p>
+<p>自研软件产品，产权自有</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云在华南最大代理商</p>
+<p>SaaS 订阅与私有化部署双形态</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
@@ -693,7 +692,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>研发与专业技术人员占比 76%，本科以上约 90%</p>
+<p>研发与专业技术人员为主体</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
@@ -701,7 +700,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>年销售额约 1 亿，服务广汽埃安、如祺出行等标杆客户</p>
+<p>一站式全包交付：域名、服务器、证书与解析配齐</p>
 </div>
 </div>
 </div>

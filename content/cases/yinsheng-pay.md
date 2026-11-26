@@ -1,6 +1,6 @@
 ---
 title: "支付行业 AI 落地案例：AI 赋能风控与智能客服建设实践 - 信朴科技"
-description: "以知识问答、运营报表、风控辅助三类Agent定制切入支付业务全链路，客服响应提升40%，报表生成提速，在金融合规边界内把人力密集型工作交给智能体，支付行业AI落地标杆。
+description: "以知识问答、运营报表、风控辅助三类Agent定制切入支付业务全链路，客服响应显著提升，报表生成提速，在金融合规边界内把人力密集型工作交给智能体，支付行业AI落地标杆。
 "
 keywords: "AI落地,企业AI,Agent定制,支付行业AI,风控Agent,客服Agent,信朴科技"
 nav: "cases"
@@ -497,27 +497,27 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>场景定义与合规边界</h4>
-<p>深入风控、运营、客服访谈，梳理 15 个候选场景，明确金融合规与数据安全边界，筛选出风控、报表、问答三个首批场景。</p>
+<p>深入风控、运营、客服访谈，梳理多类候选场景，明确金融合规与数据安全边界，筛选出风控、报表、问答等首批场景。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–5 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>知识流程与数据接入</h4>
 <p>接入交易流水与商户数据仓，梳理风控规则与支付专业知识体系，构建企业知识库底座，明确权限与脱敏边界。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 6–9 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>原型开发与合规测试</h4>
 <p>FDE 团队驻场开发三类 Agent 原型；风控辅助在影子模式运行，报表 Agent 在运营组小范围试用，完成合规评审。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 10–14 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>推广交接与资产沉淀</h4>
 <p>试点验证后逐步放量，知识问答 Agent 全员可用；Token 统一供应与用量治理同步上线，成本立即下降；知识资产全量交接。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 15–18 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>持续陪跑与新场景</h4>
 <p>持续陪跑新场景，客服团队开始主动提出商户运营辅助等新需求，AI 从单点工具变为业务流程的一部分。</p>
 </div>
@@ -533,7 +533,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>客服响应效率提升 40%</strong>，专业问题 7×24h 即时作答；<strong>运营报表生成提速 55%</strong>，多维度口径自动汇总；首批三类运营 Agent 进入生产环境，风控辅助在影子模式运行，模型用量成本稳定在官网约 45 折。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>客服响应效率显著提升</strong>，专业问题 7×24h 即时作答；<strong>运营报表生成显著提速</strong>，多维度口径自动汇总；首批三类运营 Agent 进入生产环境，风控辅助在影子模式运行，模型用量成本稳定在官网约 45 折。</p>
 <p>更重要的是组织能力的变化——风控与运营团队开始<strong>主动</strong>提出新的 AI 场景需求，AI 在严苛的合规边界内，成为了业务流程的有机组成部分。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -550,7 +550,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">国内知名支付科技企业</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">金融科技 · 支付服务</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">18 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">FDE 现场 + 数据架构师 + 合规顾问</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 7 月</span></div>
 </div>
@@ -593,7 +593,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 出行平台</div>
-<h3>出行平台的智能客服与运营分析：客服响应提速 60%</h3>
+<h3>出行平台的智能客服与运营分析：客服响应显著提速</h3>
 <div class="rs">
 <div><div class="num">60<span class="unit">%</span></div><div class="label">客服响应提速</div></div>
 <div><div class="num">24/7<span class="unit"></span></div><div class="label">运营分析覆盖</div></div>
@@ -609,7 +609,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 专业服务</div>
-<h3>知识产权的知识问答 Agent：文档处理提效 70%</h3>
+<h3>知识产权的知识问答 Agent：文档处理显著提效</h3>
 <div class="rs">
 <div><div class="num">70<span class="unit">%</span></div><div class="label">文档处理提效</div></div>
 <div><div class="num">1<span class="unit">个</span></div><div class="label">知识问答 Agent</div></div>

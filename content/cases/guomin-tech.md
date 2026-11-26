@@ -1,7 +1,7 @@
 ---
 title: "半导体企业智能化升级，AI 助力芯片研发提速落地案例 - 信朴科技"
-description: "以研发辅助Agent与技术文档问答Agent定制切入芯片研发协作，研发效率提升40%，从代码生成审查到datasheet检索，系统性提升芯片企业研发团队生产力，半导体行业AI落地标杆。"
-keywords: "AI落地,企业AI,Agent定制,国民技术AI,芯片企业AI,研发辅助Agent,技术文档问答,信朴科技"
+description: "以研发辅助Agent与技术文档问答Agent定制切入芯片研发协作，研发效率显著提升，从代码生成审查到datasheet检索，系统性提升芯片企业研发团队生产力，半导体行业AI落地标杆。"
+keywords: "AI落地,企业AI,Agent定制,某半导体企业AI,芯片企业AI,研发辅助Agent,技术文档问答,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -474,7 +474,7 @@ background-size:48px 48px;pointer-events:none;
 <div class="sol">
 <div class="step"><span class="zh">用</span><span class="tag">Supply</span></div>
 <h4>文档问答 Agent · 让检索秒级</h4>
-<p>接入 datasheet、规范、内部 Wiki，构建技术文档问答 Agent，自然语言问寄存器、问时序、问规范，文档检索提速 60%。</p>
+<p>接入 datasheet、规范、内部 Wiki，构建技术文档问答 Agent，自然语言问寄存器、问时序、问规范，文档检索显著提速。</p>
 </div>
 <div class="sol">
 <div class="step"><span class="zh">学</span><span class="tag">Training</span></div>
@@ -500,29 +500,29 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>场景定义与诊断</h4>
-<p>深入芯片设计、验证、嵌入式软件团队访谈，梳理 14 个候选场景，按「价值 × 可行性」筛选出代码辅助、文档问答两个首批场景。</p>
+<p>深入芯片设计、验证、嵌入式软件团队访谈，梳理多类候选场景，按「价值 × 可行性」筛选出代码辅助、文档问答等首批场景。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–4 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>知识流程与数据接入</h4>
 <p>接入 datasheet、规范库与代码仓库，梳理研发规范与历史代码，构建企业知识库底座，明确数据安全与权限边界。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 5–8 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>原型开发与培训并行</h4>
 <p>FDE 团队驻场开发两个 Agent 原型；同期启动 WorkBuddy 分角色培训，首批骨干完成认证，研发团队开始日常使用。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 9–12 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>测试试点与推广交接</h4>
 <p>在真实研发环境小范围试点，每周迭代；Token 统一供应与用量治理同步上线，成本立即下降；知识资产全量交接。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 13–16 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>持续陪跑与新场景</h4>
-<p>试点验证后全面推广，2 个研发 Agent 进入生产环境；研发团队开始主动提出验证自动化等新场景需求。</p>
+<p>试点验证后全面推广，首批研发 Agent 进入生产环境；研发团队开始主动提出验证自动化等新场景需求。</p>
 </div>
 </div>
 </div>
@@ -536,7 +536,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>研发效率提升 40%</strong>，代码生成与审查辅助让 review 周期明显缩短；<strong>文档检索提速 60%</strong>，datasheet 与规范问答秒级响应；首批 2 个研发 Agent 进入生产环境，模型用量成本稳定在官网约 45 折。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>研发效率显著提升</strong>，代码生成与审查辅助让 review 周期明显缩短；<strong>文档检索显著提速</strong>，datasheet 与规范问答秒级响应；首批研发 Agent 进入生产环境，模型用量成本稳定在官网约 45 折。</p>
 <p>更重要的是组织能力的变化——研发团队开始<strong>主动</strong>提出验证自动化、设计辅助等新的 AI 场景需求，AI 从单点工具变成了研发流程的有机部分。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -553,7 +553,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">国内知名芯片企业</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">集成电路 · 芯片设计</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">16 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">FDE 现场 + 研发架构师 + 培训讲师</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 6 月</span></div>
 </div>
@@ -596,7 +596,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 金融科技</div>
-<h3>支付机构的知识问答 Agent：客服响应效率提升 40%</h3>
+<h3>支付机构的知识问答 Agent：客服响应效率显著提升</h3>
 <div class="rs">
 <div><div class="num">40<span class="unit">%</span></div><div class="label">响应效率提升</div></div>
 <div><div class="num">3<span class="unit">类</span></div><div class="label">运营 Agent 上线</div></div>
@@ -612,7 +612,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 科技企业</div>
-<h3>SaaS 平台的 AI 原生升级：4 类智能 Agent 嵌入产品</h3>
+<h3>SaaS 平台的 AI 原生升级：智能 Agent 嵌入产品</h3>
 <div class="rs">
 <div><div class="num">4<span class="unit">类</span></div><div class="label">智能 Agent 上线</div></div>
 <div><div class="num">FDE<span class="unit"></span></div><div class="label">现场共创交付</div></div>

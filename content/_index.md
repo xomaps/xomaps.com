@@ -1,11 +1,11 @@
 ---
-title: "企业AI落地与提效服务商 | AI培训 · 腾讯云代理 | 信朴科技"
-description: "广州信朴科技有限公司是腾讯云华南殿堂级服务商，提供企业AI培训、AI落地、AI提效、AI转型、Agent定制、Token供应、WorkBuddy培训与腾讯云全栈服务，累计服务超万家企业，覆盖15+行业。"
-keywords: "企业AI,AI落地,AI培训,AI提效,AI转型,Agent定制,Token供应,WorkBuddy培训,腾讯云,信朴科技"
+title: "信朴科技 | 自研软件产品与企业 AI 落地服务商"
+description: "广州信朴科技有限公司以自研底座为支撑，自研软件产品产权自有、按授权交付，支持 SaaS 订阅、私有化部署与一站式全包交付（域名、服务器、SSL 证书与域名解析一并配齐），并上架云市场与企业微信应用市场。同时提供企业 AI 落地、Agent 定制与 AI 原生研发服务。"
+keywords: "自研软件,软件授权,私有化部署,SaaS订阅,一站式交付,企业微信应用,云市场,Agent定制,企业AI落地,信朴科技"
 nav: "home"
 date: 2026-11-18
 draft: false
----
+------
 
 <style>
 :root{
@@ -294,40 +294,12 @@ border-radius:var(--radius);transition:all .3s cubic-bezier(.22,1,.36,1)}
 .client-chip .logo-img{width:48px;height:48px;display:flex;align-items:center;justify-content:center;margin-bottom:8px;opacity:.85;transition:opacity .3s}
 .client-chip .logo-img img{width:48px;height:48px;border-radius:10px;object-fit:cover;box-shadow:0 4px 12px rgba(30,76,168,.12)}
 .client-chip:hover .logo-img{opacity:1}
+.client-chip .logo-mono{width:48px;height:48px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:800;color:var(--brand,#2563eb);background:linear-gradient(135deg,rgba(37,99,235,.12),rgba(37,99,235,.03));box-shadow:0 4px 12px rgba(30,76,168,.12)}
 .client-chip:hover{background:var(--bg-card);border-color:var(--border);box-shadow:var(--shadow-sm);transform:translateY(-4px)}
 .client-chip .name{font-size:16px;font-weight:700;color:var(--ink);letter-spacing:-.01em}
 .client-chip .industry{font-size:11.5px;color:var(--text-3);letter-spacing:.02em}
 .marquee-track{display:flex;gap:16px;width:max-content}
 .clients-marquee-wrap{overflow:hidden;mask-image:linear-gradient(90deg,transparent 0%,#000 6%,#000 94%,transparent 100%)}
-/* ===== 新闻中心 ===== */
-.news-head-row{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;flex-wrap:wrap;margin-bottom:6px}
-.news-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;align-items:stretch}
-.news-card{background:var(--bg-card);border:1px solid var(--border-soft);border-radius:var(--radius-lg);overflow:hidden;
-box-shadow:var(--shadow-xs);transition:transform .45s cubic-bezier(.22,1,.36,1),box-shadow .45s,border-color .45s;display:flex;flex-direction:column;height:100%}
-.news-card:hover{transform:translateY(-8px);box-shadow:var(--shadow-lg);border-color:rgba(30,76,168,.25)}
-.news-thumb{position:relative;height:180px;overflow:hidden;background:var(--bg-soft)}
-.news-thumb img{width:100%;height:100%;object-fit:cover;transition:transform .7s cubic-bezier(.22,1,.36,1)}
-.news-card:hover .news-thumb img{transform:scale(1.08)}
-.news-body{padding:24px;padding-top: 0px;display:flex;flex-direction:column;flex:1}
-.news-meta{display:flex;align-items:center;gap:12px;margin-bottom:12px;font-size:12px;color:var(--text-3)}
-.news-cat{font-size:11px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:3px 10px;border-radius:6px;letter-spacing:.06em}
-.news-card h4{font-size:16.5px;font-weight:700;color:var(--ink);line-height:1.55;letter-spacing:-.01em;margin-bottom:10px;
-display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;transition:color .3s}
-.news-card:hover h4{color:var(--brand)}
-.news-card p{font-size:13px;color:var(--text-2);line-height:1.8;margin-bottom:16px;flex:1;
-display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.news-more{display:inline-flex;align-items:center;gap:6px;font-size:13.5px;font-weight:600;color:var(--ink);transition:all .3s;align-self:flex-start}
-.news-more svg{width:15px;height:15px;transition:transform .3s}
-.news-card:hover .news-more{color:var(--brand);gap:10px}
-.news-card:hover .news-more svg{transform:translateX(3px)}
-@media(max-width:980px){
-.news-grid{grid-template-columns:1fr 1fr}
-}
-@media(max-width:680px){
-.news-grid{grid-template-columns:1fr}
-}
-
-
 /* ===== 行业覆盖 ===== */
 .industry-cloud{display:flex;flex-wrap:wrap;gap:14px}
 .industry-cloud span{padding:12px 26px;border-radius:100px;background:var(--bg-card);border:1px solid var(--border);
@@ -339,7 +311,7 @@ background:var(--accent);border-radius:4px;padding:2px 5px;letter-spacing:.08em}
 
 
 /* ===== 滚动渐入（JS IntersectionObserver 驱动） ===== */
-.sec-head,.svc-card,.why-card,.method-step,.stat-card,.news-card,.industry-cloud span,.trust-item,.about-layout,.partner-logo,.svc-carousel-wrap,.svc-controls,.about-video{
+.sec-head,.svc-card,.why-card,.method-step,.stat-card,.industry-cloud span,.trust-item,.about-layout,.partner-logo,.svc-carousel-wrap,.svc-controls,.about-video{
 opacity:0;transform:translateY(30px);
 transition:opacity .8s cubic-bezier(.22,1,.36,1),transform .8s cubic-bezier(.22,1,.36,1)}
 .reveal-in{opacity:1 !important;transform:none !important}
@@ -381,7 +353,7 @@ section{padding:72px 0}
 }
 @media (prefers-reduced-motion: reduce){
 *{animation-duration:.01ms !important;transition-duration:.01ms !important}
-.sec-head,.svc-card,.why-card,.method-step,.stat-card,.news-card,.industry-cloud span,.trust-item,.about-layout,.partner-logo,.svc-carousel-wrap,.svc-controls,.about-video{opacity:1;transform:none}
+.sec-head,.svc-card,.why-card,.method-step,.stat-card,.industry-cloud span,.trust-item,.about-layout,.partner-logo,.svc-carousel-wrap,.svc-controls,.about-video{opacity:1;transform:none}
 #page-loader{display:none}
 }
 </style>
@@ -392,9 +364,9 @@ section{padding:72px 0}
 <div id="page-loader">
 <div class="loader-bg-blob"></div>
 <div class="loader-inner">
-<div class="loader-logo"><img src="/assets/img/20260815/20260815225408_31001.png" alt="信朴科技"></div>
+<div class="loader-logo"><img src="/assets/img/brand/xomaps-logo-temp.png" alt="信朴科技"></div>
 <div class="loader-slogan">企业 AI 能力建设与应用落地服务商</div>
-<div class="loader-brand">信朴科技 <span class="em">XOMAPS<sup>®</sup></span></div>
+<div class="loader-brand">信朴科技 <span class="em">XOMAPS<sup></sup></span></div>
 <div class="loader-progress"><div class="bar"></div></div>
 <div class="loader-percent"><span class="num">0</span> %</div>
 </div>
@@ -405,10 +377,10 @@ section{padding:72px 0}
 <div class="hero-slide active">
 <div class="bg"></div>
 <div class="wrap" style="padding-top:140px;">
-<div class="hero-eyebrow"><span class="dot"></span>企业 AI 能力建设与应用落地服务商 · 腾讯云华南殿堂级服务商</div>
+<div class="hero-eyebrow"><span class="dot"></span>企业 AI 能力建设与应用落地服务商 · 自研软件产品产权自有</div>
 <h1><span class="line1">让 AI 真正走进</span><span class="line2">企业的业务流程</span></h1>
-<p class="sub">信朴科技源自腾讯云计算服务经验，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持——学·用·建·管，一站式闭环。</p>
-<div class="hero-chips"><span>腾讯云华南殿堂级服务商</span><span>累计服务超万家企业</span><span>覆盖 15+ 行业</span><span>研发人员占比 76%</span></div>
+<p class="sub">信朴科技以自研软件产品为底座，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持——学·用·建·管，一站式闭环。</p>
+<div class="hero-chips"><span>自研软件产品产权自有</span><span>SaaS 订阅与私有化部署</span><span>企业微信应用上架</span><span>云市场入驻服务商</span></div>
 <div class="hero-cta"><a href="/contact.html#form" class="btn btn-accent btn-lg">联系信朴科技</a><a href="/services.html" class="btn btn-ghost btn-lg">查看服务</a></div>
 </div>
 </div>
@@ -425,18 +397,18 @@ section{padding:72px 0}
 <div class="hero-slide">
 <div class="bg"></div>
 <div class="wrap" style="padding-top:140px;">
-<div class="hero-eyebrow"><span class="dot"></span>腾讯云华南最大代理商 · 殿堂级服务资质</div>
+<div class="hero-eyebrow"><span class="dot"></span>自研 SaaS · 私有化部署 · 双形态交付</div>
 <h1><span class="line1">云 + AI 一体化，</span><span class="line2">让企业少走弯路</span></h1>
-<p class="sub">依托腾讯云产品全栈交付能力，结合 AI 落地咨询与实施，帮助企业建设安全、可扩展的数字化底座。</p>
-<div class="hero-chips"><span>腾讯云全栈代理</span><span>云架构设计</span><span>迁移运维</span><span>成本优化</span></div>
-<div class="hero-cta"><a href="/cloud.html" class="btn btn-accent btn-lg">云服务</a><a href="tel:18926108189" class="btn btn-ghost btn-lg">咨询报价</a></div>
+<p class="sub">依托自研软件底座与私有化交付能力，结合 AI 落地咨询与实施，帮助企业建设安全、可扩展、产权自主的数字化底座。</p>
+<div class="hero-chips"><span>私有化部署</span><span>全包交付</span><span>云市场上架</span><span>企微应用上架</span></div>
+<div class="hero-cta"><a href="/cloud.html" class="btn btn-accent btn-lg">私有化部署</a><a href="tel:18926108189" class="btn btn-ghost btn-lg">咨询报价</a></div>
 </div>
 </div>
 
 <div class="hero-float" style="right:calc((100vw - 1200px)/2 + 24px);">
-<div class="hf-card"><div class="hf-icon" style="background:linear-gradient(135deg,rgba(37,99,235,.12),rgba(59,130,246,.06))"><svg viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg></div><div class="hf-body"><div class="hf-num">10000<span class="unit">+</span></div><div class="hf-label">累计服务企业客户</div></div></div>
-<div class="hf-card"><div class="hf-icon" style="background:linear-gradient(135deg,rgba(249,115,22,.12),rgba(249,115,22,.06))"><svg viewBox="0 0 24 24" fill="none" stroke="#f97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></div><div class="hf-body"><div class="hf-num">15<span class="unit">+ 行业</span></div><div class="hf-label">服务行业覆盖</div></div></div>
-<div class="hf-card"><div class="hf-icon" style="background:linear-gradient(135deg,rgba(37,99,235,.12),rgba(59,130,246,.06))"><svg viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><div class="hf-body"><div class="hf-num">76<span class="unit">%</span></div><div class="hf-label">研发与技术人员占比</div></div></div>
+<div class="hf-card"><div class="hf-icon" style="background:linear-gradient(135deg,rgba(37,99,235,.12),rgba(59,130,246,.06))"><svg viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg></div><div class="hf-body"><div class="hf-num">自研</div><div class="hf-label">软件产品产权自有</div></div></div>
+<div class="hf-card"><div class="hf-icon" style="background:linear-gradient(135deg,rgba(249,115,22,.12),rgba(249,115,22,.06))"><svg viewBox="0 0 24 24" fill="none" stroke="#f97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></div><div class="hf-body"><div class="hf-num">双形态</div><div class="hf-label">SaaS 订阅与私有化部署</div></div></div>
+<div class="hf-card"><div class="hf-icon" style="background:linear-gradient(135deg,rgba(37,99,235,.12),rgba(59,130,246,.06))"><svg viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><div class="hf-body"><div class="hf-num">全包</div><div class="hf-label">域名、服务器、证书与解析一站式</div></div></div>
 </div>
 
 <div class="hero-arrows">
@@ -451,10 +423,10 @@ section{padding:72px 0}
 <section class="trust-bar" style="padding:20px 0;">
 <div class="wrap">
 <div class="trust-grid">
-<div class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg><span class="tv">腾讯云<span class="accent">殿堂级</span>服务商</span></div>
-<div class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg><span class="tv">华南最大<span class="accent">代理商</span></span></div>
-<div class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span class="tv">年销售额约<span class="accent">1 亿</span></span></div>
-<div class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 18l6-6-6-6M8 6l-6 6 6 6"/></svg><span class="tv">研发人员占比<span class="accent">76%</span></span></div>
+<div class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg><span class="tv">自研软件<span class="accent">产权自有</span></span></div>
+<div class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg><span class="tv">SaaS 与<span class="accent">私有化</span>双交付</span></div>
+<div class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span class="tv">企业微信<span class="accent">应用上架</span></span></div>
+<div class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 18l6-6-6-6M8 6l-6 6 6 6"/></svg><span class="tv">一站式<span class="accent">全包</span>交付</span></div>
 </div>
 </div>
 </section>
@@ -471,13 +443,13 @@ section{padding:72px 0}
 <div class="svc-track" id="svcTrack">
 <div class="svc-card"><a href="/ai-efficiency.html"><div class="svc-num">01</div><div class="svc-thumb"><img src="/assets/img/20260814/ban3.png" alt="AI 提效"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg></div><h4>AI 提效</h4><div class="svc-tag">学·用·建·管，一站式闭环</div><ul class="svc-features"><li>企业 AI 培训 + 模型用量 + Agent 定制 + 咨询</li><li>让人会用 AI、让模型用得省</li><li>让场景真落地、让投入沉淀为资产</li></ul><a href="/ai-efficiency.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a></div>
 <div class="svc-card">
-<a href="/cloud.html"><div class="svc-num">02</div><div class="svc-thumb"><img src="/assets/img/20260814/ban2.png" alt="云计算服务"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg></div><h4>云计算服务</h4><div class="svc-tag">腾讯云华南最大代理商</div><ul class="svc-features"><li>腾讯云全栈产品代理与交付</li><li>云架构设计、迁移与运维支持</li><li>殿堂级服务资质，价格优势显著</li></ul><a href="/cloud.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a>
+<a href="/cloud.html"><div class="svc-num">02</div><div class="svc-thumb"><img src="/assets/img/20260814/ban2.png" alt="私有化部署与托管"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg></div><h4>私有化部署与托管</h4><div class="svc-tag">软件产权自有 · 按授权交付</div><ul class="svc-features"><li>私有化环境交付与运维托管</li><li>域名、服务器、证书、解析全包配齐</li><li>SaaS 订阅与私有化双形态可选</li></ul><a href="/cloud.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a>
 </div>
 <div class="svc-card"><a href="/ai-landing.html"><div class="svc-num">03</div><div class="svc-thumb"><img src="/assets/img/20260814/ban1.png" alt="AI 落地"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5M2 12l10 5 10-5"/></svg></div><h4>AI 落地</h4><div class="svc-tag">从场景到业务，真实落地</div><ul class="svc-features"><li>场景识别与 AI 机会诊断</li><li>工具导入与工作流改造</li><li>FDE 现场共创，真实材料验证</li></ul><a href="/ai-landing.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a></div>
 <div class="svc-card"><a href="/ai-training.html"><div class="svc-num">04</div><div class="svc-thumb"><img src="/assets/img/theme/1617443834642507.jpg" alt="AI 转型培训"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg></div><h4>AI 转型培训</h4><div class="svc-tag">建立认知 · 普及能力 · 培养骨干</div><ul class="svc-features"><li>线上：WorkBuddy 使用 / Prompt 工程</li><li>线下七大模块：通识 / 思维 / Vibe Coding</li><li>诊断式定制训练营 · 标准课程包</li></ul><a href="/ai-training.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a></div>
 <div class="svc-card"><a href="/agent.html"><div class="svc-num">05</div><div class="svc-thumb"><img src="/assets/img/20260814/ban1.png" alt="Agent 定制"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="10" rx="2"/><circle cx="12" cy="5" r="2"/><path d="M12 7v4M8 16h.01M16 16h.01"/></svg></div><h4>Agent 定制</h4><div class="svc-tag">FDE 现场共创 · 五步法落地</div><ul class="svc-features"><li>知识问答 / 客服 / 销售辅助</li><li>运营分析 / 报告 / 流程协同</li><li>场景→知识→原型→试点→交接</li></ul><a href="/agent.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a></div>
 <div class="svc-card"><a href="/token-supply.html"><div class="svc-num">06</div><div class="svc-thumb"><img src="/assets/img/20260814/ban3.png" alt="Token 供应"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></div><h4>Token 供应</h4><div class="svc-tag">GPT · Gemini 等主流模型</div><ul class="svc-features"><li>模型用量稳定供给与资源管理</li><li>50 席以上赠 2000 元兑换券</li><li>后续用量约官网 45 折</li></ul><a href="/token-supply.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a></div>
-<div class="svc-card"><a href="/workbuddy-training.html"><div class="svc-num">07</div><div class="svc-thumb"><img src="/assets/img/theme/1617443834642507.jpg" alt="WorkBuddy 培训"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg></div><h4>WorkBuddy 培训</h4><div class="svc-tag">腾讯 AI 办公助手专项培训</div><ul class="svc-features"><li>WorkBuddy 使用方法与最佳实践</li><li>Prompt 工程与知识库搭建</li><li>50 席起购，面向企业全员推广</li></ul><a href="/workbuddy-training.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a></div>
+<div class="svc-card"><a href="/workbuddy-training.html"><div class="svc-num">07</div><div class="svc-thumb"><img src="/assets/img/theme/1617443834642507.jpg" alt="WorkBuddy 培训"></div><div class="svc-body"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg></div><h4>WorkBuddy 培训</h4><div class="svc-tag">AI 办公助手专项培训</div><ul class="svc-features"><li>WorkBuddy 使用方法与最佳实践</li><li>Prompt 工程与知识库搭建</li><li>50 席起购，面向企业全员推广</li></ul><a href="/workbuddy-training.html" class="svc-link">了解详情<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div></a></div>
 </div>
 </div>
 </div>
@@ -492,20 +464,20 @@ section{padding:72px 0}
 <section class="bg-soft" id="about">
 <div class="wrap">
 <div class="sec-head" style="margin-bottom:48px">
-<div class="sec-eyebrow"><span class="dot"></span>ABOUT XOMAPS<sup>®</sup> · 关于信朴科技</div>
+<div class="sec-eyebrow"><span class="dot"></span>ABOUT XOMAPS<sup></sup> · 关于信朴科技</div>
 <h2 class="sec-title">让 AI 真正走进<span class="em">企业的业务流程</span></h2>
-<p class="sec-desc">企业 AI 能力建设与应用落地服务商 · 腾讯云华南殿堂级服务商</p>
+<p class="sec-desc">企业 AI 能力建设与应用落地服务商 · 自研软件产品产权自有</p>
 </div>
 <div class="about-layout">
 <div class="about-media">
-<span class="img-badge">公司环境</span>
+<span class="img-badge">自研底座</span>
 <div class="img-frame">
-<img src="/assets/img/theme/1617438721109068.jpg" alt="信朴科技办公环境">
+<img src="/assets/img/theme/brand-visual-placeholder.png" alt="信朴科技自研软件产品能力示意" loading="lazy">
 </div>
 <div class="float-stat">
-<div class="fs-item"><div class="fs-num">50<span class="unit">+</span></div><div class="fs-label">企业 AI 落地场景</div></div>
-<div class="fs-item"><div class="fs-num">76<span class="unit">%</span></div><div class="fs-label">研发占比</div></div>
-<div class="fs-item"><div class="fs-num">1<span class="unit">亿</span></div><div class="fs-label">年销售额</div></div>
+<div class="fs-item"><div class="fs-num">自研</div><div class="fs-label">软件产品产权自有</div></div>
+<div class="fs-item"><div class="fs-num">双形态</div><div class="fs-label">SaaS 与私有化</div></div>
+<div class="fs-item"><div class="fs-num">全包</div><div class="fs-label">一站式交付</div></div>
 </div>
 <!-- 视频播放器代码预留：企业介绍视频制作完成后取消注释即可启用
 <video id="aboutVideoEl" controls playsinline preload="none" style="display:none;z-index:2;"></video>
@@ -513,11 +485,11 @@ section{padding:72px 0}
 -->
 </div>
 <div class="about-content">
-<p class="about-intro">广州信朴科技有限公司，<strong>企业 AI 能力建设与应用落地服务商</strong>，腾讯云华南殿堂级服务商、华南最大代理商。围绕企业 AI 落地，提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持——<strong>学 · 用 · 建 · 管</strong>，一站式闭环。累计服务超万家企业客户，覆盖新能源汽车、智慧出行、装备制造、金融科技等 15+ 行业。</p>
+<p class="about-intro">广州信朴科技有限公司，<strong>企业 AI 能力建设与应用落地服务商</strong>。以自研软件产品为底座，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持——<strong>学 · 用 · 建 · 管</strong>，一站式闭环。软件产品产权自有，支持 SaaS 订阅与私有化部署，并可上架云市场与企业微信应用市场交付。</p>
 <div class="about-highlights">
-<div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div><div class="ah-title">殿堂级资质</div><div class="ah-desc">腾讯云华南最高级服务商</div></div>
-<div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg></div><div class="ah-title">万家客户</div><div class="ah-desc">累计服务超万家企业</div></div>
-<div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></div><div class="ah-title">15+ 行业</div><div class="ah-desc">覆盖全行业落地实践</div></div>
+<div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div><div class="ah-title">自研底座</div><div class="ah-desc">软件产品产权自有，按授权交付</div></div>
+<div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg></div><div class="ah-title">双形态交付</div><div class="ah-desc">SaaS 订阅与私有化部署</div></div>
+<div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></div><div class="ah-title">开放生态</div><div class="ah-desc">云市场与企业微信应用上架</div></div>
 </div>
 <div class="about-quote">
 <p>让企业里的每一个人，都能把 AI 真正用起来。AI 的价值不在演示，而在业务闭环——信朴科技的使命是帮助企业完成从认知、工具到组织能力的内化。</p>
@@ -529,14 +501,14 @@ section{padding:72px 0}
 <a href="/workbuddy-training.html" class="as-card"><div class="as-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg></div><div class="as-title">企业 AI 培训</div></a>
 <a href="/token-supply.html" class="as-card"><div class="as-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></div><div class="as-title">模型 Token 供应</div></a>
 <a href="/agent.html" class="as-card"><div class="as-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="10" rx="2"/><circle cx="12" cy="5" r="2"/><path d="M12 7v4"/></svg></div><div class="as-title">Agent 定制与 FDE</div></a>
-<a href="/cloud.html" class="as-card"><div class="as-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg></div><div class="as-title">云计算与 AI 咨询</div></a>
+<a href="/cloud.html" class="as-card"><div class="as-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg></div><div class="as-title">私有化部署与咨询</div></a>
 </div>
 </div>
 </section>
 
 <section class="bg-gradient">
 <div class="wrap">
-<div class="sec-head"><div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div><h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2><p class="sec-desc">信朴科技不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p></div>
+<div class="sec-head"><div class="sec-eyebrow">WHY XOMAPS<sup></sup></div><h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2><p class="sec-desc">信朴科技不止于做演示——从咨询到应用的一体化能力，让 AI 真正落进业务流程。</p></div>
 <div class="why-grid">
 <div class="why-card"><div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg></div><h4>一体化能力</h4><p>同时具备咨询、培训、工具、模型、知识库和 Agent 服务能力，减少多个供应商之间的沟通与割裂。</p></div>
 <div class="why-card"><div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></div><h4>业务起点</h4><p>更关注员工每天在做什么、哪些环节最耗时间，而不是先从某个模型或工具出发设计项目。</p></div>
@@ -562,16 +534,16 @@ section{padding:72px 0}
 
 <section class="bg-soft">
 <div class="wrap">
-<div class="sec-head"><div class="sec-eyebrow">KEY FIGURES</div><h2 class="sec-title">用数字说明，<span class="em">信朴科技是谁</span></h2><p class="sec-desc">从团队规模到服务覆盖，每一个数字背后都是真实的企业 AI 落地实践。</p></div>
+<div class="sec-head"><div class="sec-eyebrow">CAPABILITIES</div><h2 class="sec-title">自研底座支撑，<span class="em">按授权交付</span></h2><p class="sec-desc">从产品形态到交付方式，每一项能力都围绕企业 AI 真实落地构建。</p></div>
 <div class="stats-grid">
-<div class="stat-card"><div class="stat-num"><span class="accent">10000</span><span class="unit">+</span></div><div class="stat-label">累计服务企业客户</div></div>
-<div class="stat-card"><div class="stat-num"><span class="accent">15</span><span class="unit">+</span></div><div class="stat-label">覆盖行业领域</div></div>
-<div class="stat-card"><div class="stat-num"><span class="accent">50</span><span class="unit">+</span></div><div class="stat-label">企业 AI 落地场景</div></div>
-<div class="stat-card"><div class="stat-num"><span class="accent">76</span><span class="unit">%</span></div><div class="stat-label">研发与专业技术人员占比</div></div>
-<div class="stat-card"><div class="stat-num"><span class="accent">90</span><span class="unit">%</span></div><div class="stat-label">本科以上学历</div></div>
-<div class="stat-card"><div class="stat-num"><span class="accent">20</span><span class="unit">%</span></div><div class="stat-label">硕士以上学历</div></div>
-<div class="stat-card"><div class="stat-num"><span class="accent">1</span><span class="unit">亿</span></div><div class="stat-label">年销售额</div></div>
-<div class="stat-card"><div class="stat-num"><span class="accent">28</span><span class="unit">岁</span></div><div class="stat-label">团队平均年龄</div></div>
+<div class="stat-card"><div class="stat-num"><span class="accent">自研</span></div><div class="stat-label">软件产品产权自有</div></div>
+<div class="stat-card"><div class="stat-num"><span class="accent">双形态</span></div><div class="stat-label">SaaS 订阅与私有化部署</div></div>
+<div class="stat-card"><div class="stat-num"><span class="accent">全包</span></div><div class="stat-label">域名、服务器、证书与解析一站式</div></div>
+<div class="stat-card"><div class="stat-num"><span class="accent">企微</span></div><div class="stat-label">企业微信应用上架</div></div>
+<div class="stat-card"><div class="stat-num"><span class="accent">云市场</span></div><div class="stat-label">云市场服务商入驻</div></div>
+<div class="stat-card"><div class="stat-num"><span class="accent">开放</span></div><div class="stat-label">开放接口与生态接入</div></div>
+<div class="stat-card"><div class="stat-num"><span class="accent">闭环</span></div><div class="stat-label">学 · 用 · 建 · 管方法论</div></div>
+<div class="stat-card"><div class="stat-num"><span class="accent">长期</span></div><div class="stat-label">版本持续迭代与本地支持</div></div>
 </div>
 </div>
 </section>
@@ -580,137 +552,52 @@ section{padding:72px 0}
 <div class="wrap">
 <div class="clients-head sec-head">
 <div class="sec-eyebrow"><span class="dot"></span>TRUSTED BY · 合作客户</div>
-<h2 class="sec-title">15+ 行业头部企业的<span class="em">共同选择</span></h2>
-<p class="sec-sub">从新能源汽车到金融科技，信朴科技的合作实践覆盖 15+ 行业。</p>
+<h2 class="sec-title">多行业企业的<span class="em">共同选择</span></h2>
+<p class="sec-sub">从新能源汽车到金融科技，信朴科技的合作实践覆盖制造、服务与科技专业服务行业。</p>
 </div>
 </div>
 <div class="clients-marquee-wrap">
 <div class="clients-marquee">
 <div class="marquee-track">
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105553_65168.png" alt="广汽埃安" loading="lazy"></div><div class="name">广汽埃安</div><div class="industry">新能源汽车</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817110440_14904.png" alt="如祺出行" loading="lazy"></div><div class="name">如祺出行</div><div class="industry">智慧出行</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105610_16175.png" alt="广日电梯" loading="lazy"></div><div class="name">广日电梯</div><div class="industry">装备制造</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105617_46866.png" alt="国民技术" loading="lazy"></div><div class="name">国民技术</div><div class="industry">半导体</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105623_24770.png" alt="中国邮政云南" loading="lazy"></div><div class="name">中国邮政云南</div><div class="industry">邮政物流</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105634_47109.png" alt="噗噗游戏" loading="lazy"></div><div class="name">噗噗游戏</div><div class="industry">游戏文娱</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105639_21664.png" alt="长兴润德" loading="lazy"></div><div class="name">长兴润德</div><div class="industry">教育科技</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105645_19977.png" alt="致远电子" loading="lazy"></div><div class="name">致远电子</div><div class="industry">工业电子</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105651_38098.png" alt="香蕉攀岩" loading="lazy"></div><div class="name">香蕉攀岩</div><div class="industry">运动休闲</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105658_39110.png" alt="企知道" loading="lazy"></div><div class="name">企知道</div><div class="industry">企业服务 SaaS</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105704_10263.png" alt="八方锦程" loading="lazy"></div><div class="name">八方锦程</div><div class="industry">人力资源</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/logos/dongpeng-ceramics.png" alt="东鹏陶瓷" loading="lazy"></div><div class="name">东鹏陶瓷</div><div class="industry">建材陶瓷</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105711_89537.png" alt="华进联合" loading="lazy"></div><div class="name">华进联合</div><div class="industry">知识产权</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105717_69036.png" alt="银盛支付" loading="lazy"></div><div class="name">银盛支付</div><div class="industry">金融科技</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">车</span></div><div class="name">某新能源汽车企业</div><div class="industry">新能源汽车</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">行</span></div><div class="name">某智慧出行平台</div><div class="industry">智慧出行</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">装</span></div><div class="name">某装备制造企业</div><div class="industry">装备制造</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">芯</span></div><div class="name">某半导体企业</div><div class="industry">半导体</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">邮</span></div><div class="name">某邮政物流企业</div><div class="industry">邮政物流</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">游</span></div><div class="name">某游戏研发企业</div><div class="industry">游戏文娱</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">教</span></div><div class="name">某教育科技企业</div><div class="industry">教育科技</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">电</span></div><div class="name">某工业电子企业</div><div class="industry">工业电子</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">岩</span></div><div class="name">某运动连锁品牌</div><div class="industry">运动休闲</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">服</span></div><div class="name">某企业服务平台</div><div class="industry">企业服务 SaaS</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">人</span></div><div class="name">某人力资源机构</div><div class="industry">人力资源</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">建</span></div><div class="name">某建材陶瓷企业</div><div class="industry">建材陶瓷</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">产</span></div><div class="name">某知识产权机构</div><div class="industry">知识产权</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">金</span></div><div class="name">某金融科技企业</div><div class="industry">金融科技</div></div>
 </div>
 <div class="marquee-track">
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105553_65168.png" alt="广汽埃安" loading="lazy"></div><div class="name">广汽埃安</div><div class="industry">新能源汽车</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817110440_14904.png" alt="如祺出行" loading="lazy"></div><div class="name">如祺出行</div><div class="industry">智慧出行</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105610_16175.png" alt="广日电梯" loading="lazy"></div><div class="name">广日电梯</div><div class="industry">装备制造</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105617_46866.png" alt="国民技术" loading="lazy"></div><div class="name">国民技术</div><div class="industry">半导体</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105623_24770.png" alt="中国邮政云南" loading="lazy"></div><div class="name">中国邮政云南</div><div class="industry">邮政物流</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105634_47109.png" alt="噗噗游戏" loading="lazy"></div><div class="name">噗噗游戏</div><div class="industry">游戏文娱</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105639_21664.png" alt="长兴润德" loading="lazy"></div><div class="name">长兴润德</div><div class="industry">教育科技</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105645_19977.png" alt="致远电子" loading="lazy"></div><div class="name">致远电子</div><div class="industry">工业电子</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105651_38098.png" alt="香蕉攀岩" loading="lazy"></div><div class="name">香蕉攀岩</div><div class="industry">运动休闲</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105658_39110.png" alt="企知道" loading="lazy"></div><div class="name">企知道</div><div class="industry">企业服务 SaaS</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105704_10263.png" alt="八方锦程" loading="lazy"></div><div class="name">八方锦程</div><div class="industry">人力资源</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/logos/dongpeng-ceramics.png" alt="东鹏陶瓷" loading="lazy"></div><div class="name">东鹏陶瓷</div><div class="industry">建材陶瓷</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105711_89537.png" alt="华进联合" loading="lazy"></div><div class="name">华进联合</div><div class="industry">知识产权</div></div>
-<div class="client-chip"><div class="logo-img"><img src="/assets/img/20260817/20260817105717_69036.png" alt="银盛支付" loading="lazy"></div><div class="name">银盛支付</div><div class="industry">金融科技</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">车</span></div><div class="name">某新能源汽车企业</div><div class="industry">新能源汽车</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">行</span></div><div class="name">某智慧出行平台</div><div class="industry">智慧出行</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">装</span></div><div class="name">某装备制造企业</div><div class="industry">装备制造</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">芯</span></div><div class="name">某半导体企业</div><div class="industry">半导体</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">邮</span></div><div class="name">某邮政物流企业</div><div class="industry">邮政物流</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">游</span></div><div class="name">某游戏研发企业</div><div class="industry">游戏文娱</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">教</span></div><div class="name">某教育科技企业</div><div class="industry">教育科技</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">电</span></div><div class="name">某工业电子企业</div><div class="industry">工业电子</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">岩</span></div><div class="name">某运动连锁品牌</div><div class="industry">运动休闲</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">服</span></div><div class="name">某企业服务平台</div><div class="industry">企业服务 SaaS</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">人</span></div><div class="name">某人力资源机构</div><div class="industry">人力资源</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">建</span></div><div class="name">某建材陶瓷企业</div><div class="industry">建材陶瓷</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">产</span></div><div class="name">某知识产权机构</div><div class="industry">知识产权</div></div>
+<div class="client-chip"><div class="logo-img"><span class="logo-mono">金</span></div><div class="name">某金融科技企业</div><div class="industry">金融科技</div></div>
 </div>
 </div>
 </div>
 </section>
 
-<section>
-<div class="wrap">
-<div class="news-head-row">
-<div class="sec-head"><div class="sec-eyebrow">NEWS CENTER</div><h2 class="sec-title">新闻中心</h2><p class="sec-desc">信朴科技动态、行业洞察与企业 AI 实践分享。</p></div>
-<a href="/news/" class="btn btn-ghost" style="margin-bottom:8px;">查看更多</a>
-</div>
-<!-- ========== CMS 新闻列表循环开始 ========== -->
-<!-- 说明：以下 .news-grid 内的 <article class="news-card"> 为 CMS 后台动态调取的新闻列表项。
-每个 article 对应一条新闻，字段映射如下：
-- 配图：.news-thumb img 的 src 属性（建议尺寸 800×500 以上）
-- 分类：.news-cat 内的文本
-- 日期：.news-meta 内第二个 <span> 的文本
-- 标题：.news-card h4 内的文本
-- 摘要：.news-card p 内的文本
-- 链接：.news-more 的 href 属性
-后台请将循环体替换为当前需要展示的 N 条新闻（建议首页显示 3 条）。 -->
-<div class="news-grid">
-<!-- CMS 单条新闻项开始（示例 1） -->
-<article class="news-card">
-<a href="/news-kelabo-token.html">
-<div class="news-thumb"><img src="/assets/img/article/20260804/20260804150518_947081.jpg" alt="新闻配图"></div>
-<div class="news-body">‘
-<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-22</span></div><h4>信朴科技为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</h4><p>近日，广州信朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token ...</p>
-<a href="/news-kelabo-token.html" class="news-more">阅读全文<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
-</div>
-</a>
-</article><article class="news-card">
-<a href="/news-jinyi-agent.html">
-<div class="news-thumb"><img src="/assets/img/article/20260804/20260804150624_012056.png" alt="新闻配图"></div>
-<div class="news-body">‘
-<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-16</span></div><h4>信朴科技为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</h4><p>近日，广州信朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能 ...</p>
-<a href="/news-jinyi-agent.html" class="news-more">阅读全文<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
-</div>
-</a>
-</article><article class="news-card">
-<a href="/news-banana-climbing.html">
-<div class="news-thumb"><img src="/assets/img/article/20260804/20260804150717_627442.jpg" alt="新闻配图"></div>
-<div class="news-body">‘
-<div class="news-meta"><span class="news-cat">公司动态</span><span>2017-08-16</span></div><h4>信朴科技携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</h4><p>近日，广州信朴科技有限公司宣布，其为国内攀岩连锁场馆TOP品牌——香蕉攀岩提供的AI运营工具与培 ...</p>
-<a href="/news-banana-climbing.html" class="news-more">阅读全文<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
-</div>
-</a>
-</article>
-<!-- CMS 单条新闻项结束（示例 1） -->
-
-<!--   <div class="row">
-<div class="col-md-4 col-xs-12 "  >
-<div class="x_w">
-<div class="t_p"><a href="/news-kelabo-token.html"><img src="/assets/img/article/20260804/20260804150518_947081.jpg"></a></div>
-<div class="w_z">
-<h3><a href="/news-kelabo-token.html">信朴科技为克拉波互娱提供大模型Token聚合服务，AI调用成本降低42%</a></h3>
-<p>近日，广州信朴科技有限公司宣布，其为国内新锐游戏研发厂商——克拉波互娱游戏提供的大模型Token ...</p>
-<div class="more"><a href="/news-kelabo-token.html">查看详情</a></div>
-<div class="x_x"><i class="fa fa-clock-o"></i>2017-08-22</div>
-</div>
-</div>
-</div><div class="col-md-4 col-xs-12 "  >
-<div class="x_w">
-<div class="t_p"><a href="/news-jinyi-agent.html"><img src="/assets/img/article/20260804/20260804150624_012056.png"></a></div>
-<div class="w_z">
-<h3><a href="/news-jinyi-agent.html">信朴科技为广东金亿防护定制企业级AI Agent，售前接待响应时效缩短70%</a></h3>
-<p>近日，广州信朴科技有限公司宣布，其为华南安全防护用品领军企业——广东金亿防护定制的企业级AI智能 ...</p>
-<div class="more"><a href="/news-jinyi-agent.html">查看详情</a></div>
-<div class="x_x"><i class="fa fa-clock-o"></i>2017-08-16</div>
-</div>
-</div>
-</div><div class="col-md-4 col-xs-12 "  >
-<div class="x_w">
-<div class="t_p"><a href="/news-banana-climbing.html"><img src="/assets/img/article/20260804/20260804150717_627442.jpg"></a></div>
-<div class="w_z">
-<h3><a href="/news-banana-climbing.html">信朴科技携手香蕉攀岩，AI运营工具与培训陪跑助力连锁品牌效率提升210%</a></h3>
-<p>近日，广州信朴科技有限公司宣布，其为国内攀岩连锁场馆TOP品牌——香蕉攀岩提供的AI运营工具与培 ...</p>
-<div class="more"><a href="/news-banana-climbing.html">查看详情</a></div>
-<div class="x_x"><i class="fa fa-clock-o"></i>2017-08-16</div>
-</div>
-</div>
-</div>
-</div>-->
-
-
-
-</div>
-<!-- ========== CMS 新闻列表循环结束 ========== -->
-</div>
-</section>
 
 <section class="bg-soft">
 <div class="wrap">
-<div class="sec-head"><div class="sec-eyebrow">INDUSTRY COVERAGE</div><h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2><p class="sec-desc">信朴科技的合作实践覆盖企业 AI 咨询、能力培养、工具导入和业务场景应用建设，客户来自制造业、服务业与科技专业服务三大板块。</p></div>
+<div class="sec-head"><div class="sec-eyebrow">INDUSTRY COVERAGE</div><h2 class="sec-title">跨行业实践，<span class="em">自研底座持续沉淀</span></h2><p class="sec-desc">信朴科技的合作实践覆盖企业 AI 咨询、能力培养、工具导入和业务场景应用建设，客户来自制造业、服务业与科技专业服务三大板块。</p></div>
 <div class="industry-cloud">
 <span class="hot">新能源汽车</span><span class="hot">智慧出行</span><span class="hot">装备制造</span><span class="hot">半导体芯片</span>
 <span>邮政物流</span><span>建材陶瓷</span><span>知识产权</span><span>金融科技</span>

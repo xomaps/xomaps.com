@@ -1,7 +1,7 @@
 ---
 title: "建材制造企业智能化升级，传统产业 AI 转型落地案例 - 信朴科技"
-description: "以AI转型培训与AI提效闭环切入，150+人完成AI启蒙，从管理层战略到一线工具，帮传统建材企业完成AI意识与能力系统性建构，建材行业AI转型标杆案例。"
-keywords: "AI落地,企业AI,AI转型,AI培训,东鹏陶瓷AI,建材企业AI,传统企业AI转型,信朴科技"
+description: "以AI转型培训与AI提效闭环切入，分层培训覆盖管理层到一线，从管理层战略到一线工具，帮传统建材企业完成AI意识与能力系统性建构，建材行业AI转型标杆案例。"
+keywords: "AI落地,企业AI,AI转型,AI培训,某建材陶瓷企业AI,建材企业AI,传统企业AI转型,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -469,7 +469,7 @@ background-size:48px 48px;pointer-events:none;
 <div class="sol">
 <div class="step"><span class="zh">诊</span><span class="tag">Diagnose</span></div>
 <h4>诊断式定制 · 先摸清家底</h4>
-<p>深入营销、设计、渠道、生产访谈，摸清团队 AI 基础与场景现状，按「价值 × 可行性」识别出 8 个高优先级场景，输出 AI 行动路线图。</p>
+<p>深入营销、设计、渠道、生产访谈，摸清团队 AI 基础与场景现状，按「价值 × 可行性」识别出多个高优先级场景，输出 AI 行动路线图。</p>
 </div>
 <div class="sol">
 <div class="step"><span class="zh">学</span><span class="tag">Training</span></div>
@@ -479,7 +479,7 @@ background-size:48px 48px;pointer-events:none;
 <div class="sol">
 <div class="step"><span class="zh">提</span><span class="tag">Boost</span></div>
 <h4>AI 提效闭环 · 让场景先跑一个</h4>
-<p>在路线图中选 1-2 个高价值场景（如营销内容生成）跑通闭环，FDE 现场共创，让团队看到真实成果，建立信心。</p>
+<p>在路线图中选首批高价值场景（如营销内容生成）跑通闭环，FDE 现场共创，让团队看到真实成果，建立信心。</p>
 </div>
 <div class="sol">
 <div class="step"><span class="zh">咨</span><span class="tag">Consult</span></div>
@@ -500,27 +500,27 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>诊断与场景识别</h4>
-<p>深入营销、设计、渠道、生产访谈，摸清团队 AI 基础，识别 8 个高优先级场景，输出 AI 行动路线图。</p>
+<p>深入营销、设计、渠道、生产访谈，摸清团队 AI 基础，识别多个高优先级场景，输出 AI 行动路线图。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–6 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>线下训练营交付</h4>
-<p>交付五大模块线下训练营，150+ 名管理者、骨干与一线完成 AI 启蒙，分角色建立认知与能力。</p>
+<p>交付五大模块线下训练营，管理者、骨干与一线完成 AI 启蒙，分角色建立认知与能力。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 7–10 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>场景闭环试点</h4>
 <p>在路线图中选营销内容生成场景，FDE 现场共创跑通闭环，让团队看到真实成果，建立信心。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 11–14 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>路线图迭代与交接</h4>
 <p>根据试点反馈迭代 AI 行动路线图，把方法论与 SOP 交接给客户团队，形成可持续的组织能力。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 15–16 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>持续陪跑与扩展</h4>
 <p>持续陪跑新场景，业务团队开始主动提出设计辅助、渠道运营等新需求，AI 从启蒙进入落地阶段。</p>
 </div>
@@ -536,7 +536,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>150+ 人完成 AI 启蒙</strong>，管理者、骨干、一线分层覆盖；<strong>5 大模块线下训练营完成交付</strong>，团队从「听过概念」变为「敢上手用」；识别出 8 个高优先级场景，营销内容生成场景跑通闭环。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>管理者、骨干、一线完成 AI 启蒙</strong>，分层覆盖；<strong>5 大模块线下训练营完成交付</strong>，团队从「听过概念」变为「敢上手用」；识别出多个高优先级场景，营销内容生成场景跑通闭环。</p>
 <p>更重要的是组织能力的变化——业务团队开始<strong>主动</strong>提出新的 AI 场景需求，AI 从「神秘的概念」变成了「看得懂、用得上的生产方式」。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -553,7 +553,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">国内知名陶瓷建材企业</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">建材 · 品牌制造</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">16 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">诊断顾问 + 培训讲师 + FDE 现场</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 6 月</span></div>
 </div>

@@ -1,11 +1,11 @@
 ---
-title: "企业Agent定制服务 | 让Agent在业务里跑起来 - 信朴科技"
-description: "信朴科技Agent定制服务：场景诊断+Agent定制+企业知识库+FDE现场共创，支持知识问答、客服、销售辅助、运营分析、报告生成、流程协同、研发辅助七类Agent，五步落地法让Agent在企业AI场景中真实运行。"
-keywords: "Agent定制,企业AI,AI落地,腾讯云,企业Agent开发,AI Agent定制,智能体定制,信朴科技"
+title: "Agent 定制 | 基于自研底座的业务智能体 - 信朴科技"
+description: "信朴科技 Agent 定制：基于自研 AI 中台打造业务 Agent，覆盖销售助理、知识问答、流程协同与运营分析，通过 OpenAPI 与 MCP 接入企业自有系统，五步法完成从场景到交接的落地。"
+keywords: "Agent定制,自研AI中台,OpenAPI,MCP,业务智能体,信朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
----
+------
 
 <!doctype html>
 
@@ -252,7 +252,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <!-- ══════════ Hero ══════════ -->
 <header class="hero">
 <div class="wrap">
-<div class="hero-eyebrow">企业级 AI 能力建设服务商 · 腾讯云华南殿堂级服务商</div>
+<div class="hero-eyebrow">企业级 AI 能力建设服务商 · 自研软件产品产权自有</div>
 <h1>
 <span class="line1">Agent 定制服务</span>
 <span class="line2">让 Agent 在业务里跑起来</span>
@@ -580,17 +580,17 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">CUSTOMIZATION OUTCOMES</div>
 <h2 class="sec-title">不止交付工具，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">信朴科技累计服务超万家企业客户，覆盖 15+ 行业，让 Agent 真正在业务里跑起来。</p>
+<p class="sec-desc">信朴科技以自研软件产品为底座，让 Agent 真正在业务里跑起来。</p>
 </div>
 
 <div class="stats-grid">
 <div class="stat-card">
-<div class="stat-num"><span class="accent">10000</span><span class="unit">+</span></div>
-<div class="stat-label">累计服务企业客户</div>
+<div class="stat-num"><span class="accent">自研</span></div>
+<div class="stat-label">软件产品产权自有</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">15</span><span class="unit">+</span></div>
-<div class="stat-label">覆盖行业领域</div>
+<div class="stat-num"><span class="accent">双形态</span></div>
+<div class="stat-label">SaaS 订阅与私有化部署</div>
 </div>
 <div class="stat-card">
 <div class="stat-num"><span class="accent">7</span><span class="unit">类</span></div>
@@ -661,9 +661,9 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
+<div class="sec-eyebrow">WHY XOMAPS<sup></sup></div>
 <h2 class="sec-title">业务起点 · 知识喂料，<span class="em">FDE 现场 + 陪跑推广</span></h2>
-<p class="sec-desc">腾讯云华南殿堂级服务商——云与 AI 一体化的落地服务能力，让 Agent 真正在业务里跑起来。</p>
+<p class="sec-desc">自研软件底座——云与 AI 一体化的落地服务能力，让 Agent 真正在业务里跑起来。</p>
 </div>
 
 <div class="why-grid">
@@ -696,7 +696,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
-<h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
+<h2 class="sec-title">跨行业实践，<span class="em">自研底座持续沉淀</span></h2>
 <p class="sec-desc">信朴科技的 Agent 定制与 AI 落地实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
@@ -731,17 +731,17 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">HONORS & ENDORSEMENT</div>
 <h2 class="sec-title">权威认可与<span class="em">资质背书</span></h2>
-<p class="sec-desc">腾讯云华南殿堂级服务商（最高级），云与 AI 一体化的落地服务能力。</p>
+<p class="sec-desc">自研软件底座，云与 AI 一体化的落地服务能力。</p>
 </div>
 
 <div class="honor-list">
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云华南殿堂级服务商（最高级）</p>
+<p>自研软件产品，产权自有</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云在华南最大代理商</p>
+<p>SaaS 订阅与私有化部署双形态</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
@@ -757,7 +757,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>年销售额约 1 亿，服务广汽埃安、如祺出行等标杆客户</p>
+<p>一站式全包交付：域名、服务器、证书与解析配齐</p>
 </div>
 </div>
 </div>

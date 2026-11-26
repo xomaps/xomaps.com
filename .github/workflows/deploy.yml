@@ -26,7 +26,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --gc --baseURL "https://x.omaps.cn/"
+        run: hugo --minify --gc --baseURL "https://www.xomaps.com/"
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
@@ -35,4 +35,4 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./public
           force_orphan: true
-          cname: x.omaps.cn
+          cname: www.xomaps.com

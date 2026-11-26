@@ -2,7 +2,7 @@
 title: "企业信息 SaaS 平台 AI 落地案例：平台 AI 原生能力升级实践 - 信朴科技"
 description: "以知识问答、智能推荐、文档生成四类Agent定制切入，FDE现场共创把AI能力原生嵌入SaaS产品体验，4类智能Agent上线，用户活跃提升，SaaS行业AI落地标杆案例。
 "
-keywords: "AI落地,企业AI,Agent定制,企知道AI,SaaS平台AI,知识问答Agent,智能推荐Agent,信朴科技"
+keywords: "AI落地,企业AI,Agent定制,某企业服务平台AI,SaaS平台AI,知识问答Agent,智能推荐Agent,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -497,29 +497,29 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>场景定义与产品对齐</h4>
 <p>深入产品、研发、运营访谈，梳理产品体验差距，按「用户价值 × 技术可行性」筛选出问答、推荐、生成、检索四类首批场景。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–4 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>知识流程与数据接入</h4>
 <p>接入企业数据、政策、专利、行业资讯多源数据，构建知识库底座，明确数据更新机制与权限边界。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 5–8 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>原型开发与产品集成</h4>
 <p>FDE 团队驻场开发四类 Agent 原型，与产品研发团队协同集成，完成产品级体验联调。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 9–12 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>灰度测试与迭代</h4>
 <p>在部分企业用户中灰度测试，每周迭代；Token 统一供应与用量治理同步上线，支撑 SaaS 商业模式。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 13–16 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>全量发布与交接</h4>
-<p>灰度验证后全量发布，4 类智能 Agent 上线；知识资产与 SOP 全量交接给客户研发团队，持续陪跑新场景。</p>
+<p>灰度验证后全量发布，智能 Agent 上线；知识资产与 SOP 全量交接给客户研发团队，持续陪跑新场景。</p>
 </div>
 </div>
 </div>
@@ -533,7 +533,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>4 类智能 Agent 上线</strong>，知识问答、智能推荐、文档生成、智能检索覆盖核心体验；<strong>用户活跃提升 30%</strong>，AI 原生体验带动留存；模型用量成本稳定在官网约 45 折，支撑 SaaS 商业模式可持续。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>智能 Agent 上线</strong>，知识问答、智能推荐、文档生成、智能检索覆盖核心体验；<strong>用户活跃显著提升</strong>，AI 原生体验带动留存；模型用量成本稳定在官网约 45 折，支撑 SaaS 商业模式可持续。</p>
 <p>更重要的是产品形态的变化——AI 从外挂功能变成了产品的核心体验，用户开始<strong>主动</strong>反馈新的智能化需求，产品竞争力明显上一个台阶。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -550,7 +550,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">国内知名科创服务企业</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">企业服务 · SaaS 平台</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">16 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">FDE 现场 + 产品架构师 + 数据架构师</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 7 月</span></div>
 </div>
@@ -609,7 +609,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 专业服务</div>
-<h3>知识产权的知识问答 Agent：文档处理提效 70%</h3>
+<h3>知识产权的知识问答 Agent：文档处理显著提效</h3>
 <div class="rs">
 <div><div class="num">70<span class="unit">%</span></div><div class="label">文档处理提效</div></div>
 <div><div class="num">1<span class="unit">个</span></div><div class="label">知识问答 Agent</div></div>
@@ -625,7 +625,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 金融科技</div>
-<h3>支付机构的知识问答 Agent：客服响应效率提升 40%</h3>
+<h3>支付机构的知识问答 Agent：客服响应效率显著提升</h3>
 <div class="rs">
 <div><div class="num">40<span class="unit">%</span></div><div class="label">响应效率提升</div></div>
 <div><div class="num">3<span class="unit">类</span></div><div class="label">运营 Agent 上线</div></div>

@@ -1,7 +1,7 @@
 ---
 title: "出行服务平台 AI 落地案例：AI 构建智能客服与运营分析能力 - 信朴科技"
-description: "以智能客服Agent与运营分析Agent切入出行平台高峰客服与海量订单数据，客服响应提速60%，运营分析全天候覆盖，系统性缓解一线压力，出行行业AI落地标杆案例。"
-keywords: "AI落地,企业AI,Agent定制,如祺出行AI,出行平台AI,智能客服Agent,运营分析Agent,信朴科技"
+description: "以智能客服Agent与运营分析Agent切入出行平台高峰客服与海量订单数据，客服响应显著提速，运营分析全天候覆盖，系统性缓解一线压力，出行行业AI落地标杆案例。"
+keywords: "AI落地,企业AI,Agent定制,某智慧出行平台AI,出行平台AI,智能客服Agent,运营分析Agent,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -496,27 +496,27 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>场景定义与诊断</h4>
-<p>深入客服、运营、安全管理访谈，梳理出 12 个候选场景，按「价值 × 可行性」筛选出客服、运营分析、知识问答三个首批场景。</p>
+<p>深入客服、运营、安全管理访谈，梳理出多类候选场景，按「价值 × 可行性」筛选出客服、运营分析、知识问答等首批场景。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–4 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>知识流程梳理</h4>
 <p>接入订单系统与运营数据仓，梳理客服话术与 Robotaxi 知识体系，构建企业知识库底座，明确数据安全与权限边界。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 5–8 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>原型开发与试点</h4>
 <p>FDE 团队驻场开发三个 Agent 原型；智能客服先在夜间低峰试点，运营分析 Agent 在调度组小范围试用，快速迭代。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 9–12 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>推广交接</h4>
 <p>试点验证后逐步放量，客服 Agent 覆盖全时段，运营分析 Agent 全员可用；Token 统一供应与用量治理同步上线，成本立即下降。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 13–16 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>资产沉淀与持续陪跑</h4>
 <p>把话术、知识、提示词沉淀为企业资产全量交接；持续陪跑新场景，运营团队开始主动提出新的 AI 需求。</p>
 </div>
@@ -532,7 +532,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>客服响应提速 60%</strong>，高峰排队时长减半，用户满意度回升；<strong>运营分析实现 24/7 覆盖</strong>，经营日报从次日出具变为当日实时；首批 3 个业务 Agent 进入生产环境，模型用量成本稳定在官网约 45 折。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>客服响应显著提速</strong>，高峰排队时长减半，用户满意度回升；<strong>运营分析实现全天候覆盖</strong>，经营日报从次日出具变为当日实时；首批 3 个业务 Agent 进入生产环境，模型用量成本稳定在官网约 45 折。</p>
 <p>更重要的是组织能力的变化——运营团队开始<strong>主动</strong>提出「能不能再做一个调度辅助 Agent」这样的新需求，AI 从工具变成了业务团队的日常生产方式。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -549,7 +549,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">国内知名出行企业</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">智慧出行 · Robotaxi</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">16 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">FDE 现场 + 数据架构师 + 培训讲师</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 7 月</span></div>
 </div>
@@ -592,7 +592,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 金融科技</div>
-<h3>支付机构的知识问答 Agent：客服响应效率提升 40%</h3>
+<h3>支付机构的知识问答 Agent：客服响应效率显著提升</h3>
 <div class="rs">
 <div><div class="num">40<span class="unit">%</span></div><div class="label">响应效率提升</div></div>
 <div><div class="num">7×24<span class="unit">h</span></div><div class="label">全天候知识服务</div></div>

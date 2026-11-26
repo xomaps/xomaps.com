@@ -1,11 +1,11 @@
 ---
-title: "企业AI落地案例 | 15+行业头部企业验证 - 信朴科技"
-description: "信朴科技AI 落地案例库：覆盖新能源汽车、出行服务、支付金融、装备制造、半导体、建材、企业 SaaS、区域物流等 15 + 行业头部企业智能化项目。可查看智能 Agent 定制、AI 能力培训真实落地场景、配套解决方案与项目成果数据。"
-keywords: "AI落地,企业AI,Agent定制,AI培训,信朴科技"
+title: "行业场景与交付实践 - 信朴科技"
+description: "信朴科技交付实践：覆盖户外媒体、装备制造、企业服务、知识产权与科技服务等业务场景，展示自研业务系统、Agent 定制与私有化部署在真实流程中的落地方式。"
+keywords: "行业场景,交付实践,自研业务系统,私有化部署,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
----
+------
 
 <style>
 :root{
@@ -273,6 +273,7 @@ border-radius:var(--radius);transition:all .3s cubic-bezier(.22,1,.36,1);cursor:
 .client-chip:hover{background:var(--bg-card);border-color:var(--border);box-shadow:var(--shadow-sm);transform:translateY(-4px)}
 .client-chip .client-logo{display:flex;align-items:center;justify-content:center;height:48px;width:100%}
 .client-chip .client-logo img{max-height:48px;max-width:140px;width:auto;height:auto;object-fit:contain;display:block}
+.client-chip .logo-mono{width:48px;height:48px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:800;color:var(--brand,#2563eb);background:linear-gradient(135deg,rgba(37,99,235,.12),rgba(37,99,235,.03))}
 .client-chip .client-logo svg{height:48px;width:auto;display:block}
 .client-chip .name{font-size:16px;font-weight:700;color:var(--ink);letter-spacing:-.01em;margin-top:2px}
 .client-chip .industry{font-size:11.5px;color:var(--text-3);letter-spacing:.02em}
@@ -378,17 +379,17 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <header class="hero" id="top">
 <div class="wrap">
 <div class="hero-inner">
-<div class="hero-eyebrow reveal"><span class="line"></span>15+ 行业落地实践 · 真实场景验证</div>
+<div class="hero-eyebrow reveal"><span class="line"></span>多行业落地实践 · 真实场景验证</div>
 <h1 class="reveal reveal-d1">每一次落地，<br>都是 <span class="em">AI 变生产力</span> 的真实证明</h1>
-<p class="sub reveal reveal-d2">从新能源汽车到金融科技，从半导体到建材制造——信朴科技的服务已在 15+ 行业的头部企业中跑通闭环。不讲概念，只看结果。</p>
+<p class="sub reveal reveal-d2">从新能源汽车到金融科技，从半导体到建材制造——信朴科技的服务已在多行业的头部企业中跑通闭环。不讲概念，只看结果。</p>
 <div class="hero-metrics reveal reveal-d3">
 <div class="hero-metric">
-<div class="num">15<span class="unit">+ 行业</span></div>
-<div class="label">头部企业落地实践</div>
+<div class="num">双形态</div>
+<div class="label">SaaS 订阅与私有化部署</div>
 </div>
 <div class="hero-metric">
-<div class="num">100<span class="unit">+ 场景</span></div>
-<div class="label">真实业务场景验证</div>
+<div class="num">全包</div>
+<div class="label">域名、服务器、证书与解析</div>
 </div>
 <div class="hero-metric">
 <div class="num">7<span class="unit">大产品</span></div>
@@ -435,12 +436,12 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 </div>
 <div class="featured-results">
 <div class="featured-result">
-<div class="num">3<span class="unit">x</span></div>
-<div class="label">团队 AI 使用率提升</div>
+<div class="num">全员</div>
+<div class="label">AI 日常化使用推进</div>
 </div>
 <div class="featured-result">
-<div class="num">55<span class="unit">% 成本</span></div>
-<div class="label">Token 用量成本下降</div>
+<div class="num">45<span class="unit">折</span></div>
+<div class="label">模型用量约官网成本</div>
 </div>
 <div class="featured-result">
 <div class="num">5<span class="unit">类 Agent</span></div>
@@ -488,14 +489,14 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="case-body">
 <p class="challenge">出行平台客服与运营数据量大，人工处理效率受限，需要 AI 辅助提升响应速度与数据分析能力。</p>
 <div class="case-sols">
-<span class="sol">云计算服务</span>
+<span class="sol">私有化部署</span>
 <span class="sol">Agent 定制</span>
 <span class="sol">Token 供应</span>
 </div>
 <div class="case-results">
 <div class="case-result">
-<div class="num">60<span class="unit">%</span></div>
-<div class="label">客服响应提速</div>
+<div class="num">7×24</div>
+<div class="label">高峰客服覆盖</div>
 </div>
 <div class="case-result">
 <div class="num">24/7</div>
@@ -729,8 +730,8 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="label">知识问答 Agent</div>
 </div>
 <div class="case-result">
-<div class="num">70<span class="unit">%</span></div>
-<div class="label">文档处理提效</div>
+<div class="num">FDE</div>
+<div class="label">现场共创交付</div>
 </div>
 </div>
 </div>
@@ -747,24 +748,24 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="impact-head reveal sec-head">
 <div class="sec-eyebrow"><span class="dot"></span>IMPACT · 成果数据</div>
 <h2 class="sec-title">数字背后，是<span class="em">真实的生产力</span></h2>
-<p class="sec-sub">聚合所有客户案例的关键指标，信朴科技的服务交付带来的可量化价值。</p>
+<p class="sec-sub">自研底座与一站式交付能力，支撑每一次真实落地。</p>
 </div>
 <div class="impact-grid">
 <div class="impact-item reveal">
-<div class="num">15<span class="unit">+</span></div>
-<div class="label">行业覆盖<br>从新能源到金融科技</div>
+<div class="num">双形态</div>
+<div class="label">交付形态<br>SaaS 与私有化</div>
 </div>
 <div class="impact-item reveal reveal-d1">
-<div class="num">100<span class="unit">+</span></div>
-<div class="label">业务场景<br>真实跑通的 AI 应用</div>
+<div class="num">全包</div>
+<div class="label">交付范围<br>域名、服务器、证书与解析</div>
 </div>
 <div class="impact-item reveal reveal-d2">
-<div class="num">55<span class="unit" class="accent">%</span></div>
-<div class="label">平均成本优化<br>Token 用量成本下降</div>
+<div class="num">45<span class="unit">折</span></div>
+<div class="label">模型用量<br>约官网成本</div>
 </div>
 <div class="impact-item reveal reveal-d3">
-<div class="num">2000<span class="unit">+ 人</span></div>
-<div class="label">培训覆盖<br>完成 AI 能力赋能</div>
+<div class="num">长期</div>
+<div class="label">持续迭代<br>版本更新与本地支持</div>
 </div>
 </div>
 </div>
@@ -775,126 +776,126 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="wrap">
 <div class="clients-head reveal sec-head">
 <div class="sec-eyebrow"><span class="dot"></span>TRUSTED BY · 合作客户</div>
-<h2 class="sec-title">15+ 行业头部企业的<span class="em">共同选择</span></h2>
-<p class="sec-sub">从新能源汽车到金融科技，信朴科技的合作实践覆盖 15+ 行业。</p>
+<h2 class="sec-title">多行业企业的<span class="em">共同选择</span></h2>
+<p class="sec-sub">从新能源汽车到金融科技，信朴科技的合作实践覆盖制造、服务与科技专业服务行业。</p>
 </div>
 </div>
 <div class="clients-marquee-wrap reveal reveal-d1">
 <div class="clients-marquee" id="clientsMarquee">
 <div class="marquee-track">
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105553_65168.png" alt="国内知名汽车企业" loading="lazy"></div>
-<div class="name">广汽埃安</div><div class="industry">新能源汽车</div>
+<div class="client-logo"><span class="logo-mono">车</span></div>
+<div class="name">某新能源汽车企业</div><div class="industry">新能源汽车</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817110440_14904.png" alt="国内知名出行企业" loading="lazy"></div>
-<div class="name">如祺出行</div><div class="industry">出行平台</div>
+<div class="client-logo"><span class="logo-mono">行</span></div>
+<div class="name">某智慧出行平台</div><div class="industry">出行平台</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105610_16175.png" alt="广日电梯" loading="lazy"></div>
-<div class="name">广日电梯</div><div class="industry">装备制造</div>
+<div class="client-logo"><span class="logo-mono">装</span></div>
+<div class="name">某装备制造企业</div><div class="industry">装备制造</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105617_46866.png" alt="国民技术" loading="lazy"></div>
-<div class="name">国民技术</div><div class="industry">半导体</div>
+<div class="client-logo"><span class="logo-mono">芯</span></div>
+<div class="name">某半导体企业</div><div class="industry">半导体</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105623_24770.png" alt="中国邮政云南" loading="lazy"></div>
-<div class="name">中国邮政云南</div><div class="industry">邮政服务</div>
+<div class="client-logo"><span class="logo-mono">邮</span></div>
+<div class="name">某邮政物流企业</div><div class="industry">邮政服务</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105634_47109.png" alt="噗噗游戏" loading="lazy"></div>
-<div class="name">噗噗游戏</div><div class="industry">游戏</div>
+<div class="client-logo"><span class="logo-mono">游</span></div>
+<div class="name">某游戏研发企业</div><div class="industry">游戏</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105639_21664.png" alt="长兴润德" loading="lazy"></div>
-<div class="name">长兴润德</div><div class="industry">教育科技</div>
+<div class="client-logo"><span class="logo-mono">教</span></div>
+<div class="name">某教育科技企业</div><div class="industry">教育科技</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105645_19977.png" alt="致远电子" loading="lazy"></div>
-<div class="name">致远电子</div><div class="industry">工业电子</div>
+<div class="client-logo"><span class="logo-mono">电</span></div>
+<div class="name">某工业电子企业</div><div class="industry">工业电子</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105651_38098.png" alt="香蕉攀岩" loading="lazy"></div>
-<div class="name">香蕉攀岩</div><div class="industry">运动休闲</div>
+<div class="client-logo"><span class="logo-mono">岩</span></div>
+<div class="name">该运动连锁品牌</div><div class="industry">运动休闲</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105658_39110.png" alt="国内知名科创服务企业" loading="lazy"></div>
-<div class="name">企知道</div><div class="industry">企业服务 SaaS</div>
+<div class="client-logo"><span class="logo-mono">服</span></div>
+<div class="name">某企业服务平台</div><div class="industry">企业服务 SaaS</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105704_10263.png" alt="八方锦程" loading="lazy"></div>
-<div class="name">八方锦程</div><div class="industry">人力资源</div>
+<div class="client-logo"><span class="logo-mono">人</span></div>
+<div class="name">某人力资源机构</div><div class="industry">人力资源</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/logos/dongpeng-ceramics.png" alt="国内知名陶瓷建材企业" loading="lazy"></div>
-<div class="name">东鹏陶瓷</div><div class="industry">建材陶瓷</div>
+<div class="client-logo"><span class="logo-mono">建</span></div>
+<div class="name">某建材陶瓷企业</div><div class="industry">建材陶瓷</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105711_89537.png" alt="国内知名知识产权服务企业" loading="lazy"></div>
-<div class="name">华进联合</div><div class="industry">知识产权</div>
+<div class="client-logo"><span class="logo-mono">产</span></div>
+<div class="name">某知识产权机构</div><div class="industry">知识产权</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105717_69036.png" alt="国内知名支付科技企业" loading="lazy"></div>
-<div class="name">银盛支付</div><div class="industry">金融科技</div>
+<div class="client-logo"><span class="logo-mono">金</span></div>
+<div class="name">某金融科技企业</div><div class="industry">金融科技</div>
 </div>
 </div>
 <div class="marquee-track" aria-hidden="true">
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105553_65168.png" alt="国内知名汽车企业" loading="lazy"></div>
-<div class="name">广汽埃安</div><div class="industry">新能源汽车</div>
+<div class="client-logo"><span class="logo-mono">车</span></div>
+<div class="name">某新能源汽车企业</div><div class="industry">新能源汽车</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817110440_14904.png" alt="国内知名出行企业" loading="lazy"></div>
-<div class="name">如祺出行</div><div class="industry">出行平台</div>
+<div class="client-logo"><span class="logo-mono">行</span></div>
+<div class="name">某智慧出行平台</div><div class="industry">出行平台</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105610_16175.png" alt="国内知名电梯制造企业" loading="lazy"></div>
-<div class="name">广日电梯</div><div class="industry">装备制造</div>
+<div class="client-logo"><span class="logo-mono">装</span></div>
+<div class="name">某装备制造企业</div><div class="industry">装备制造</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105617_46866.png" alt="国内知名芯片企业" loading="lazy"></div>
-<div class="name">国民技术</div><div class="industry">半导体</div>
+<div class="client-logo"><span class="logo-mono">芯</span></div>
+<div class="name">某半导体企业</div><div class="industry">半导体</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105623_24770.png" alt="云南省央企背景综合运营国企" loading="lazy"></div>
-<div class="name">中国邮政云南</div><div class="industry">邮政服务</div>
+<div class="client-logo"><span class="logo-mono">邮</span></div>
+<div class="name">某邮政物流企业</div><div class="industry">邮政服务</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105634_47109.png" alt="噗噗游戏" loading="lazy"></div>
-<div class="name">噗噗游戏</div><div class="industry">游戏</div>
+<div class="client-logo"><span class="logo-mono">游</span></div>
+<div class="name">某游戏研发企业</div><div class="industry">游戏</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105639_21664.png" alt="长兴润德" loading="lazy"></div>
-<div class="name">长兴润德</div><div class="industry">教育科技</div>
+<div class="client-logo"><span class="logo-mono">教</span></div>
+<div class="name">某教育科技企业</div><div class="industry">教育科技</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105645_19977.png" alt="致远电子" loading="lazy"></div>
-<div class="name">致远电子</div><div class="industry">工业电子</div>
+<div class="client-logo"><span class="logo-mono">电</span></div>
+<div class="name">某工业电子企业</div><div class="industry">工业电子</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105651_38098.png" alt="香蕉攀岩" loading="lazy"></div>
-<div class="name">香蕉攀岩</div><div class="industry">运动休闲</div>
+<div class="client-logo"><span class="logo-mono">岩</span></div>
+<div class="name">该运动连锁品牌</div><div class="industry">运动休闲</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105658_39110.png" alt="国内知名科创服务企业" loading="lazy"></div>
-<div class="name">企知道</div><div class="industry">企业服务 SaaS</div>
+<div class="client-logo"><span class="logo-mono">服</span></div>
+<div class="name">某企业服务平台</div><div class="industry">企业服务 SaaS</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105704_10263.png" alt="八方锦程" loading="lazy"></div>
-<div class="name">八方锦程</div><div class="industry">人力资源</div>
+<div class="client-logo"><span class="logo-mono">人</span></div>
+<div class="name">某人力资源机构</div><div class="industry">人力资源</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/logos/dongpeng-ceramics.png" alt="国内知名陶瓷建材企业" loading="lazy"></div>
-<div class="name">东鹏陶瓷</div><div class="industry">建材陶瓷</div>
+<div class="client-logo"><span class="logo-mono">建</span></div>
+<div class="name">某建材陶瓷企业</div><div class="industry">建材陶瓷</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105711_89537.png" alt="国内知名知识产权服务企业" loading="lazy"></div>
-<div class="name">华进联合</div><div class="industry">知识产权</div>
+<div class="client-logo"><span class="logo-mono">产</span></div>
+<div class="name">某知识产权机构</div><div class="industry">知识产权</div>
 </div>
 <div class="client-chip">
-<div class="client-logo"><img src="/assets/img/20260817/20260817105717_69036.png" alt="国内知名支付科技企业" loading="lazy"></div>
-<div class="name">银盛支付</div><div class="industry">金融科技</div>
+<div class="client-logo"><span class="logo-mono">金</span></div>
+<div class="name">某金融科技企业</div><div class="industry">金融科技</div>
 </div>
 </div>
 </div>
@@ -976,9 +977,9 @@ setTimeout(function(){ if(p.classList.contains('hide')) p.style.display = 'none'
 (function(){
 var COLORS = {
 '国内知名汽车企业':'#1e4ca8', '国内知名出行企业':'#2563eb', '国内知名电梯制造企业':'#475569',
-'国内知名芯片企业':'#6d28d9', '云南省央企背景综合运营国企':'#059669', '噗噗游戏':'#ea580c',
-'长兴润德':'#0891b2', '致远电子':'#dc2626', '香蕉攀岩':'#ca8a04',
-'国内知名科创服务企业':'#1e40af', '八方锦程':'#7c3aed', '国内知名陶瓷建材企业':'#b91c1c',
+'国内知名芯片企业':'#6d28d9', '云南省央企背景综合运营国企':'#059669', '某游戏研发企业':'#ea580c',
+'某教育科技企业':'#0891b2', '某工业电子企业':'#dc2626', '该运动连锁品牌':'#ca8a04',
+'国内知名科创服务企业':'#1e40af', '某人力资源机构':'#7c3aed', '国内知名陶瓷建材企业':'#b91c1c',
 '国内知名知识产权服务企业':'#b45309', '国内知名支付科技企业':'#0f172a'
 };
 document.querySelectorAll('.client-chip img').forEach(function(img){

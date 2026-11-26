@@ -1,7 +1,7 @@
 ---
 title: "装备制造行业智能化升级，传统制造企业 AI 提效落地案例 - 信朴科技"
-description: "以AI培训与Agent定制闭环切入，200+人完成AI培训，从全员培训到售后运维Agent，把分散的图纸与经验沉淀为组织能力，传统制造业AI提效与内化标杆案例。"
-keywords: "AI落地,企业AI,AI培训,AI提效,Agent定制,广日电梯AI,制造企业AI,信朴科技"
+description: "以AI培训与Agent定制闭环切入，分层培训覆盖全员到售后一线，从全员培训到售后运维Agent，把分散的图纸与经验沉淀为组织能力，传统制造业AI提效与内化标杆案例。"
+keywords: "AI落地,企业AI,AI培训,AI提效,Agent定制,某装备制造企业AI,制造企业AI,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -479,7 +479,7 @@ background-size:48px 48px;pointer-events:none;
 <div class="sol">
 <div class="step"><span class="zh">用</span><span class="tag">Supply</span></div>
 <h4>知识库 + 图纸检索 · 让研发省时</h4>
-<p>构建企业知识库底座，统一图纸与规范入口，自然语言检索 + 问答，图纸检索提速 50%，版本错配风险下降。</p>
+<p>构建企业知识库底座，统一图纸与规范入口，自然语言检索 + 问答，图纸检索显著提速，版本错配风险下降。</p>
 </div>
 <div class="sol">
 <div class="step"><span class="zh">管</span><span class="tag">Govern</span></div>
@@ -500,29 +500,29 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>场景定义与诊断</h4>
-<p>深入研发、售后、生产访谈，梳理出 18 个候选场景，按「价值 × 可行性」矩阵筛选出图纸检索、售后运维、文档生成等首批 8 个高优先级场景。</p>
+<p>深入研发、售后、生产访谈，梳理出多类候选场景，按「价值 × 可行性」矩阵筛选出图纸检索、售后运维、文档生成等首批高优先级场景。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–4 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>知识流程梳理</h4>
 <p>为每个场景梳理知识来源与业务流程，整合图纸与规范系统，构建企业知识库底座，统一权限与数据安全边界。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 5–8 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>原型开发与培训并行</h4>
-<p>FDE 团队驻场开发首批 Agent 原型；同期启动 WorkBuddy 分角色培训，首批 200+ 名骨干与一线完成认证。</p>
+<p>FDE 团队驻场开发首批 Agent 原型；同期启动 WorkBuddy 分角色培训，首批骨干与一线完成认证。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 9–12 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>测试试点</h4>
 <p>在真实业务环境小范围试点，每周迭代；图纸检索与售后运维 Agent 在售后组试用，知识库底座全量上线。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 13–16 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>推广交接</h4>
-<p>试点验证后全面推广，8 个场景进入生产环境；知识资产与 SOP 全量交接给客户团队，形成可持续的组织能力。</p>
+<p>试点验证后全面推广，多个场景进入生产环境；知识资产与 SOP 全量交接给客户团队，形成可持续的组织能力。</p>
 </div>
 </div>
 </div>
@@ -536,7 +536,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>200+ 人完成 AI 培训认证</strong>，管理者、骨干、一线分层覆盖；<strong>8 个业务场景进入生产环境</strong>，图纸检索提速 50%，售后运维 Agent 让新人上手周期明显缩短。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>管理者、骨干、一线完成分层培训认证</strong>；<strong>多个业务场景进入生产环境</strong>，图纸检索显著提速，售后运维 Agent 让新人上手周期明显缩短。</p>
 <p>更重要的是组织能力的变化——研发与售后团队开始<strong>主动</strong>提出新的 AI 场景需求，AI 从「IT 部门的项目」变成了「全公司的生产方式」，知识资产持续生长。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -553,7 +553,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">国内知名电梯制造企业</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">智能制造 · 装备制造</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">16 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">FDE 现场 + 培训讲师 + 知识架构师</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 6 月</span></div>
 </div>

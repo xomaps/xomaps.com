@@ -1,12 +1,11 @@
 ---
-title: "企业AI Token供应与成本优化 - 信朴科技"
-description: "信朴科技Token供应服务：提供GPT、Gemini等主流大模型Token供应+成本优化+用量管理，模型用量约官网45折，WorkBuddy培训50席以上赠2000元兑换券，让企业AI成本可控、用量可视。
-"
-keywords: "Token供应,企业AI,WorkBuddy培训,AI提效,AI模型成本优化,GPT Token,模型用量,信朴科技"
+title: "开放接口与生态接入 | OpenAPI · MCP · 云市场 - 信朴科技"
+description: "信朴科技开放接口与生态接入：标准 OpenAPI 与 MCP 协议接入，可对接财务、OA、ERP 与自建中台；产品上架云市场与企业微信应用市场，模型用量统一管理，并可按企业内网规范调整接口与鉴权方式。"
+keywords: "OpenAPI,MCP,云市场,企业微信应用,系统集成,软件授权,信朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
----
+------
 
 <style>
 :root{
@@ -296,7 +295,7 @@ mix-blend-mode:multiply;
 <!-- ══════════ Hero ══════════ -->
 <header class="hero">
 <div class="wrap">
-<div class="hero-eyebrow">企业级 AI 能力建设服务商 · 腾讯云华南殿堂级服务商</div>
+<div class="hero-eyebrow">企业级 AI 能力建设服务商 · 自研软件产品产权自有</div>
 <h1>
 <span class="line1">主流模型统一供应</span>
 <span class="line2">让 AI 成本用得起 管得住</span>
@@ -688,7 +687,7 @@ mix-blend-mode:multiply;
 <div class="sec-head">
 <div class="sec-eyebrow">SERVICE OUTCOMES</div>
 <h2 class="sec-title">不止供应，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">信朴科技累计服务超万家企业客户，覆盖 15+ 行业，让企业 AI 用量成本可控、用量可视。</p>
+<p class="sec-desc">信朴科技以自研软件产品为底座，让企业 AI 用量成本可控、用量可视。</p>
 </div>
 
 <div class="stats-grid">
@@ -705,12 +704,12 @@ mix-blend-mode:multiply;
 <div class="stat-label">主流模型统一接入</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">10000</span><span class="unit">+</span></div>
-<div class="stat-label">累计服务企业客户</div>
+<div class="stat-num"><span class="accent">自研</span></div>
+<div class="stat-label">软件产品产权自有</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">15</span><span class="unit">+</span></div>
-<div class="stat-label">覆盖行业领域</div>
+<div class="stat-num"><span class="accent">双形态</span></div>
+<div class="stat-label">SaaS 订阅与私有化部署</div>
 </div>
 <div class="stat-card">
 <div class="stat-num"><span class="accent">5</span><span class="unit">步</span></div>
@@ -724,7 +723,7 @@ mix-blend-mode:multiply;
 <section id="why">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
+<div class="sec-eyebrow">WHY XOMAPS<sup></sup></div>
 <h2 class="sec-title">既是供应商，<span class="em">也是 AI 落地亲历者</span></h2>
 <p class="sec-desc">信朴科技不止于卖用量——价格优势、模型全面、企业服务、省心管理，让 AI 成本真正可控。</p>
 </div>
@@ -767,7 +766,7 @@ mix-blend-mode:multiply;
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
-<h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
+<h2 class="sec-title">跨行业实践，<span class="em">自研底座持续沉淀</span></h2>
 <p class="sec-desc">信朴科技的模型用量与 AI 服务实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
@@ -802,17 +801,17 @@ mix-blend-mode:multiply;
 <div class="sec-head">
 <div class="sec-eyebrow">HONORS & ENDORSEMENT</div>
 <h2 class="sec-title">权威认可与<span class="em">资质背书</span></h2>
-<p class="sec-desc">腾讯云华南殿堂级服务商（最高级）、腾讯云在华南最大代理商，长期服务行业头部客户。</p>
+<p class="sec-desc">自研软件产品产权自有，按授权交付，长期服务行业客户。</p>
 </div>
 
 <div class="honor-list">
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云华南殿堂级服务商（最高级）</p>
+<p>自研软件产品，产权自有</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云在华南最大代理商</p>
+<p>SaaS 订阅与私有化部署双形态</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
@@ -828,7 +827,7 @@ mix-blend-mode:multiply;
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>年销售额约 1 亿，服务广汽埃安、如祺出行等标杆客户</p>
+<p>一站式全包交付：域名、服务器、证书与解析配齐</p>
 </div>
 </div>
 </div>

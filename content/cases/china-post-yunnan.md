@@ -1,7 +1,7 @@
 ---
 title: "大型央企西南区域 AI 办公工具规模化培训落地案例（500 + 席） - 信朴科技"
 description: "信朴科技：以WorkBuddy培训500+席培训平台+三层分层训练营切入，从管理层到一线网点，系统性构建企业AI应用能力，央企分支机构大规模AI培训与AI落地标杆案例。"
-keywords: "AI落地,企业AI,WorkBuddy培训,AI培训,中国邮政AI,邮政AI培训,央企AI落地,信朴科技"
+keywords: "AI落地,企业AI,WorkBuddy培训,AI培训,某邮政物流企业AI,邮政AI培训,央企AI落地,信朴科技"
 nav: "cases"
 date: 2026-11-18
 draft: false
@@ -479,7 +479,7 @@ background-size:48px 48px;pointer-events:none;
 <div class="sol">
 <div class="step"><span class="zh">提</span><span class="tag">Boost</span></div>
 <h4>AI 提效闭环 · 让场景先跑起来</h4>
-<p>在揽收、投递、营业等场景选 12 个高价值点跑通闭环，FDE 现场共创，让一线看到真实成果，建立信心。</p>
+<p>在揽收、投递、营业等场景选高价值点跑通闭环，FDE 现场共创，让一线看到真实成果，建立信心。</p>
 </div>
 <div class="sol">
 <div class="step"><span class="zh">制</span><span class="tag">Custom</span></div>
@@ -500,27 +500,27 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>摸底与分层设计</h4>
 <p>深入管理层、骨干、一线网点访谈，摸清各层级 AI 基础与业务场景，设计三层分层赋能体系与场景清单。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–6 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>平台部署与上线</h4>
 <p>部署 500+ 席 WorkBuddy 培训平台，配套线上 Prompt 工程课程上线，全员获得统一的 AI 工具与学习入口。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 7–12 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>三层训练营交付</h4>
 <p>交付三层分层训练营：管理者战略营、骨干场景营、一线工具营，各层级针对性建立认知与能力。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 13–16 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>场景闭环试点</h4>
-<p>在 12 个网点场景跑通 AI 提效闭环，FDE 现场共创，让一线看到真实成果，建立信心与方法论。</p>
+<p>在首批网点场景跑通 AI 提效闭环，FDE 现场共创，让一线看到真实成果，建立信心与方法论。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 17–18 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>推广与持续陪跑</h4>
 <p>试点验证后向更多网点推广，把方法论与 SOP 沉淀为分支机构的组织能力，持续陪跑新场景。</p>
 </div>
@@ -536,7 +536,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>500+ 席培训平台部署完成</strong>，全员获得统一的 AI 工具与学习入口；<strong>三层分层赋能体系建成</strong>，管理者、骨干、一线各取所需；12 个网点场景跑通 AI 提效闭环。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>500+ 席培训平台部署完成</strong>，全员获得统一的 AI 工具与学习入口；<strong>三层分层赋能体系建成</strong>，管理者、骨干、一线各取所需；首批网点场景跑通 AI 提效闭环。</p>
 <p>更重要的是组织能力的变化——一线网点开始<strong>主动</strong>提出新的 AI 场景需求，AI 应用从「总部的项目」变成了「网点日常的生产方式」。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -553,7 +553,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">云南省央企背景综合运营国企</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">邮政 · 综合服务</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">18 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">培训讲师 + FDE 现场 + 平台架构师</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 5 月</span></div>
 </div>
@@ -628,7 +628,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 出行平台</div>
-<h3>出行平台的智能客服与运营分析：客服响应提速 60%</h3>
+<h3>出行平台的智能客服与运营分析：客服响应显著提速</h3>
 <div class="rs">
 <div><div class="num">60<span class="unit">%</span></div><div class="label">客服响应提速</div></div>
 <div><div class="num">24/7<span class="unit"></span></div><div class="label">运营分析覆盖</div></div>

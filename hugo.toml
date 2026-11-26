@@ -1,4 +1,4 @@
-baseURL = "https://x.omaps.cn/"
+baseURL = "https://www.xomaps.com/"
 defaultContentLanguage = "zh-cn"
 timeZone = "Asia/Shanghai"
 title = "信朴科技"
@@ -8,10 +8,10 @@ summaryLength = 120
 
 [params]
   author = "广州信朴科技有限公司"
-  description = "企业 AI 能力建设与应用落地服务商 · 腾讯云华南殿堂级服务商"
+  description = "以自研底座为支撑的企业 AI 落地服务商 · 自研软件产品产权自有，按授权交付，支持 SaaS 订阅、私有化部署与云市场、企业微信应用上架"
   phone = "18926108189"
   email = "sales@xomaps.com"
-  address = "广州市天河区金穗路1号邦华广场16楼"
+  address = "广州市天河区金穗路1号邦华广场"
   icp = "粤ICP备2025388824号"
 
 [markup.goldmark.renderer]

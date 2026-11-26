@@ -1,11 +1,11 @@
 ---
-title: "联系信朴科技 | 企业AI落地与培训咨询 - 信朴科技"
-description: "系信朴科技：商务咨询冯小姐18926108189，地址广州市天河区金穗路1号邦华广场16楼。无论是一次AI培训、一个Agent定制试点，还是完整的企业AI落地规划，腾讯云殿堂级服务商为您提供合适的起点。"
-keywords: "企业AI,AI落地,AI培训,Agent定制,腾讯云,信朴科技,广州AI公司,企业AI咨询"
+title: "联系信朴科技 | 软件授权与私有化部署咨询 - 信朴科技"
+description: "联系信朴科技：商务咨询 18926108189，地址广州市天河区金穗路1号邦华广场16楼。无论是软件授权、SaaS 订阅、私有化部署全包交付，还是企业 AI 落地规划，均可在线留言获取方案与报价。"
+keywords: "软件授权,私有化部署,一站式交付,企业AI落地,商务咨询,信朴科技"
 nav: "contact"
 date: 2026-11-18
 draft: false
----
+------
 
 <style>
 :root{
@@ -742,7 +742,7 @@ WorkBuddy <strong>50 个席位起购</strong>。采购 50 席及以上，赠送 
 <div class="addr-section">
 <div class="addr-card">
 <h3>广州信朴科技有限公司</h3>
-<p class="ac-desc">腾讯云华南殿堂级服务商 · 企业 AI 能力建设与应用落地服务商</p>
+<p class="ac-desc">自研软件产品产权自有 · 企业 AI 能力建设与应用落地服务商</p>
 
 <div class="addr-row">
 <div class="ar-ico">

@@ -1,11 +1,11 @@
 ---
-title: "企业AI落地服务 | 场景诊断到Agent上线 - 信朴科技"
-description: "信朴科技AI落地服务以场景诊断、知识库建设、Agent定制与FDE现场共创、内化体系建设四段闭环，让企业AI从演示走进日常业务流程，把AI能力沉淀为组织资产，已服务广汽埃安、如祺出行等15+行业头部企业。"
-keywords: "AI落地,企业AI,Agent定制,AI培训,腾讯云,AI场景诊断,知识库建设,FDE现场共创,信朴科技"
+title: "企业 AI 场景落地 | 场景诊断到 Agent 上线 - 信朴科技"
+description: "信朴科技以企业上下文与场景闸门识别高价值场景，FDE 前置驻场工程师现场共创，用真实材料与真实流程验证结果，把 AI 能力沉淀为组织资产。"
+keywords: "企业AI落地,场景闸门,FDE,企业上下文,知识库,Agent定制,信朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
----
+------
 
 <style>
 :root{
@@ -323,7 +323,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <!-- ══════════ Hero ══════════ -->
 <header class="hero">
 <div class="wrap">
-<div class="hero-eyebrow">企业级 AI 能力建设服务商 · 腾讯云华南殿堂级服务商</div>
+<div class="hero-eyebrow">企业级 AI 能力建设服务商 · 自研软件产品产权自有</div>
 <h1>
 <span class="line1">AI 驱动业务落地</span>
 <span class="line2">从场景诊断到 Agent 上线</span>
@@ -686,17 +686,17 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">LANDING OUTCOMES</div>
 <h2 class="sec-title">不止方法论，<span class="em">更有跑通的真实成果</span></h2>
-<p class="sec-desc">信朴科技累计服务超万家企业客户，覆盖 15+ 行业，让 AI 真正落进业务流程。</p>
+<p class="sec-desc">信朴科技以自研软件产品为底座，让 AI 真正落进业务流程。</p>
 </div>
 
 <div class="stats-grid">
 <div class="stat-card">
-<div class="stat-num"><span class="accent">10000</span><span class="unit">+</span></div>
-<div class="stat-label">累计服务企业客户</div>
+<div class="stat-num"><span class="accent">自研</span></div>
+<div class="stat-label">软件产品产权自有</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">15</span><span class="unit">+</span></div>
-<div class="stat-label">覆盖行业领域</div>
+<div class="stat-num"><span class="accent">双形态</span></div>
+<div class="stat-label">SaaS 订阅与私有化部署</div>
 </div>
 <div class="stat-card">
 <div class="stat-num"><span class="accent">4</span><span class="unit">环节</span></div>
@@ -767,7 +767,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
+<div class="sec-eyebrow">WHY XOMAPS<sup></sup></div>
 <h2 class="sec-title">既是落地服务商，<span class="em">也是 AI 落地亲历者</span></h2>
 <p class="sec-desc">信朴科技不止于做演示——业务起点、真实材料、FDE 驻场、全链路承接，让 AI 真正落进业务流程。</p>
 </div>
@@ -810,7 +810,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
-<h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
+<h2 class="sec-title">跨行业实践，<span class="em">自研底座持续沉淀</span></h2>
 <p class="sec-desc">信朴科技的 AI 落地实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
@@ -845,17 +845,17 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">HONORS & ENDORSEMENT</div>
 <h2 class="sec-title">权威认可与<span class="em">资质背书</span></h2>
-<p class="sec-desc">腾讯云华南殿堂级服务商（最高级）、腾讯云在华南最大代理商，长期服务行业头部客户。</p>
+<p class="sec-desc">自研软件产品产权自有，按授权交付，长期服务行业客户。</p>
 </div>
 
 <div class="honor-list">
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云华南殿堂级服务商（最高级）</p>
+<p>自研软件产品，产权自有</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云在华南最大代理商</p>
+<p>SaaS 订阅与私有化部署双形态</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
@@ -863,7 +863,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>研发与专业技术人员占比 76%，本科以上约 90%</p>
+<p>研发与专业技术人员为主体</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
@@ -871,7 +871,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>年销售额约 1 亿，服务广汽埃安、如祺出行等标杆客户</p>
+<p>一站式全包交付：域名、服务器、证书与解析配齐</p>
 </div>
 </div>
 </div>

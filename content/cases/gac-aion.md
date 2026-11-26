@@ -508,29 +508,29 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="timeline">
 <div class="tl-item">
-<div class="phase">Phase 1 <span class="dur">第 1–2 周</span></div>
+<div class="phase">Phase 1 <span class="dur">阶段一</span></div>
 <h4>场景定义与诊断</h4>
-<p>深入研发、客服、运营等部门访谈，梳理出 20+ 候选场景，按「价值 × 可行性」矩阵筛选出首批 6 个高优先级场景。</p>
+<p>深入研发、客服、运营等部门访谈，梳理出多类候选场景，按「价值 × 可行性」矩阵筛选出首批高优先级场景。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 2 <span class="dur">第 3–4 周</span></div>
+<div class="phase">Phase 2 <span class="dur">阶段二</span></div>
 <h4>知识流程梳理</h4>
 <p>为每个场景梳理知识来源与业务流程，构建企业知识库底座，统一权限与数据安全边界。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 3 <span class="dur">第 5–8 周</span></div>
+<div class="phase">Phase 3 <span class="dur">阶段三</span></div>
 <h4>原型开发与培训并行</h4>
-<p>FDE 团队驻场开发首批 Agent 原型；同期启动 WorkBuddy 分角色培训，首批 400 名骨干完成认证。</p>
+<p>FDE 团队驻场开发首批 Agent 原型；同期启动 WorkBuddy 分角色培训，首批骨干完成认证。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 4 <span class="dur">第 9–12 周</span></div>
+<div class="phase">Phase 4 <span class="dur">阶段四</span></div>
 <h4>测试试点</h4>
 <p>在真实业务环境小范围试点，每周迭代；Token 统一供应与用量治理同步上线，成本立即开始下降。</p>
 </div>
 <div class="tl-item">
-<div class="phase">Phase 5 <span class="dur">第 13–16 周</span></div>
+<div class="phase">Phase 5 <span class="dur">阶段五</span></div>
 <h4>推广交接</h4>
-<p>试点验证后全面推广，累计 1200 人完成培训认证、6 个 Agent 进入生产环境；知识资产与 SOP 全量交接给客户团队。</p>
+<p>试点验证后全面推广，分角色培训认证全面完成、首批业务 Agent 进入生产环境；知识资产与 SOP 全量交接给客户团队。</p>
 </div>
 </div>
 </div>
@@ -544,7 +544,7 @@ background-size:48px 48px;pointer-events:none;
 <h2>落地成果</h2>
 </div>
 </div>
-<p>项目交付后一个季度，各项指标持续向好：<strong>AI 使用率提升 3 倍</strong>，核心团队实现日常化使用；<strong>Token 成本下降 55%</strong>，且预算完全可控；首批 6 个业务 Agent 中，智能客服 Agent 响应效率提升 40%，周报与经营分析报告的生成时间从数小时缩短到分钟级。</p>
+<p>项目交付后一个季度，各项指标持续向好：<strong>AI 使用率显著提升</strong>，核心团队实现日常化使用；<strong>Token 成本明显下降</strong>，且预算完全可控；首批业务 Agent 中，智能客服 Agent 响应效率显著提升，周报与经营分析报告的生成时间从数小时缩短到分钟级。</p>
 <p>更重要的是组织能力的变化——业务部门开始<strong>主动</strong>提出新的 AI 场景需求，AI 从「IT 部门的项目」变成了「全公司的生产方式」。</p>
 <div class="case-quote">
 <div class="mark">“</div>
@@ -561,7 +561,7 @@ background-size:48px 48px;pointer-events:none;
 <h4>客户信息</h4>
 <div class="info-row"><span class="k">客户名称</span><span class="v">国内知名汽车企业</span></div>
 <div class="info-row"><span class="k">所属行业</span><span class="v">新能源汽车 · 智能制造</span></div>
-<div class="info-row"><span class="k">项目周期</span><span class="v">16 周交付 + 持续陪跑</span></div>
+<div class="info-row"><span class="k">项目周期</span><span class="v">分阶段交付 + 持续陪跑</span></div>
 <div class="info-row"><span class="k">服务团队</span><span class="v">FDE 现场 + 培训讲师 + 云架构师</span></div>
 <div class="info-row"><span class="k">发布时间</span><span class="v">2026 年 7 月</span></div>
 </div>
@@ -606,7 +606,7 @@ background-size:48px 48px;pointer-events:none;
 </div>
 <div class="rel-body">
 <div class="cat">Case Study · 金融科技</div>
-<h3>支付机构的知识问答 Agent：客服响应效率提升 40%</h3>
+<h3>支付机构的知识问答 Agent：客服响应效率显著提升</h3>
 <div class="rs">
 <div><div class="num">40<span class="unit">%</span></div><div class="label">响应效率提升</div></div>
 <div><div class="num">7×24<span class="unit">h</span></div><div class="label">全天候知识服务</div></div>

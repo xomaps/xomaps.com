@@ -1,11 +1,11 @@
 ---
-title: "腾讯云企业云计算服务 | 选买迁用一站搞定 - 信朴科技"
-description: "信朴科技腾讯云服务：华南殿堂级服务商，提供云选型、采购、迁移、运维一站式服务，覆盖弹性计算、云存储、云数据库、网络CDN、云安全、迁移优化六大领域，让企业上云选得对、买得省、迁得稳、用得安。"
-keywords: "腾讯云,企业AI,云计算服务,腾讯云代理商,企业上云,云迁移服务,腾讯云华南,殿堂级服务商,信朴科技"
+title: "私有化部署与一站式托管 | 全包交付 - 信朴科技"
+description: "信朴科技私有化部署：SaaS 订阅与私有化部署双形态，可选全包交付——域名、服务器、SSL 证书、域名解析、实施、数据迁移、培训与年度维保一并打包进报价单，客户无需自备 IT 基础设施或对接云厂商。"
+keywords: "私有化部署,一站式交付,全包价,SaaS订阅,软件授权,年度维保,信朴科技"
 nav: "services"
 date: 2026-11-18
 draft: false
----
+------
 
 <style>
 :root{
@@ -250,18 +250,18 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <!-- ══════════ Hero ══════════ -->
 <header class="hero">
 <div class="wrap">
-<div class="hero-eyebrow">腾讯云华南殿堂级服务商 · 华南最大代理商</div>
+<div class="hero-eyebrow">自研软件产品产权自有 · 一站式全包交付</div>
 <h1>
-<span class="line1">企业上云一站搞定</span>
-<span class="line2">选得对 买得省 迁得稳 用得安</span>
+<span class="line1">私有化部署一站搞定</span>
+<span class="line2">部署快 数据稳 运维省 交付全</span>
 </h1>
-<p class="sub">以「选型 + 采购 + 迁移 + 运维」一站式腾讯云服务，让上云选得对、买得省、迁得稳、用得安——殿堂级资质，官方渠道保障。</p>
+<p class="sub">以「部署 + 迁移 + 运维 + 维保」一站式私有化交付，域名、服务器、SSL 证书与域名解析一并配齐——软件产权自有，按授权交付。</p>
 <div class="hero-chips">
-<span>弹性计算</span><span>云存储</span><span>云数据库</span><span>网络与 CDN</span><span>云安全</span><span>迁移与优化</span>
+<span>SaaS 订阅</span><span>私有化部署</span><span>数据迁移</span><span>运维托管</span><span>软件授权</span><span>年度维保</span>
 </div>
 <div class="hero-cta">
-<a href="/contact.html#form" class="btn btn-accent btn-lg">预约上云咨询</a>
-<a href="#product" class="btn btn-ghost btn-lg">查看云服务</a>
+<a href="/contact.html#form" class="btn btn-accent btn-lg">预约部署咨询</a>
+<a href="#product" class="btn btn-ghost btn-lg">查看交付能力</a>
 </div>
 </div>
 </header>
@@ -283,30 +283,30 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">PAIN POINTS</div>
-<h2 class="sec-title">上云踩坑？<span class="em">6 大核心卡点</span>一站式破解</h2>
-<p class="sec-desc">很多企业的云资源是「买出来的」，不是「设计出来的」：型号凭感觉、账单看不懂、安全靠运气、出了故障没人响应。上云不是买几台服务器，而是整套体系。</p>
+<h2 class="sec-title">部署踩坑？<span class="em">6 大核心卡点</span>一站式破解</h2>
+<p class="sec-desc">很多企业的部署是「攒出来的」，不是「规划出来的」：环境凭感觉搭、资源用不明白、安全靠运气、出了故障没人响应。私有化部署不是买几台服务器，而是整套体系。</p>
 </div>
 
 <div class="pain-layer">
 <div class="pain-layer-head">
 <span class="pain-layer-tag">管理层</span>
-<span class="pain-layer-sub">关心选型准确性、成本可控与官方保障</span>
+<span class="pain-layer-sub">关心部署路径、投入可控与交付保障</span>
 </div>
 <div class="pain-grid">
 <div class="pain-card">
 <div class="pain-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></div>
 <div class="pain-body">
-<h4>不会选 · 型号规格难判断</h4>
-<p>云产品型号规格多，凭感觉买容易踩坑，资源与业务不匹配。</p>
-<span class="pain-solve">✓ 架构师按业务匹配选型</span>
+<h4>不会配 · 部署规格难判断</h4>
+<p>服务器、网络、存储规格多，凭感觉搭容易踩坑，资源与业务不匹配。</p>
+<span class="pain-solve">✓ 工程师按业务匹配部署方案</span>
 </div>
 </div>
 <div class="pain-card">
 <div class="pain-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 1v22M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
 <div class="pain-body">
-<h4>账单贵 · 预算难控 · 乱扣费</h4>
-<p>账单看不懂，预算失控，散乱采购、海外账单报销难。</p>
-<span class="pain-solve">✓ 成本治理，统一对账透明</span>
+<h4>投入贵 · 预算难控 · 重复建设</h4>
+<p>资源用不明白，预算失控，散乱采购、重复建设难复盘。</p>
+<span class="pain-solve">✓ 投入清单透明，报价一次说清</span>
 </div>
 </div>
 </div>
@@ -322,7 +322,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="pain-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg></div>
 <div class="pain-body">
 <h4>迁移怕停摆 · 业务受影响</h4>
-<p>上云怕停摆影响业务连续性，迁移过程风险高、顾虑多。</p>
+<p>部署切换怕停摆影响业务连续性，迁移过程风险高、顾虑多。</p>
 <span class="pain-solve">✓ 五步法平滑迁移，停摆最小化</span>
 </div>
 </div>
@@ -340,7 +340,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="pain-layer">
 <div class="pain-layer-head">
 <span class="pain-layer-tag">技术与一线层</span>
-<span class="pain-layer-sub">关心迁移路径、持续运维与成本优化</span>
+<span class="pain-layer-sub">关心迁移路径、持续运维与维保支持</span>
 </div>
 <div class="pain-grid">
 <div class="pain-card">
@@ -354,8 +354,8 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="pain-card">
 <div class="pain-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 4v6h-6M1 20v-6h6"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg></div>
 <div class="pain-body">
-<h4>上云后没人运维优化</h4>
-<p>上完云没人持续优化成本与性能，资源闲置浪费。</p>
+<h4>上线后没人运维优化</h4>
+<p>上线后没人持续优化性能与资源，系统越跑越慢。</p>
 <span class="pain-solve">✓ 持续监控告警 + 成本治理</span>
 </div>
 </div>
@@ -369,39 +369,39 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">SERVICE LOOP</div>
-<h2 class="sec-title">选 · 购 · 迁 · 运，<span class="em">四环衔接的上云闭环</span></h2>
-<p class="sec-desc">选型让架构对、采购让成本省、迁移让业务稳、运维让系统安——一个服务商即可全部承接，四环循环迭代。</p>
+<h2 class="sec-title">建 · 迁 · 运 · 保，<span class="em">四环衔接的部署闭环</span></h2>
+<p class="sec-desc">部署让环境对、迁移让数据稳、运维让系统安、维保让投入省——一个服务商即可全部承接，四环循环迭代。</p>
 </div>
 
 <div class="flow">
 <div class="flow-step">
-<div class="flow-num">选</div>
-<div class="flow-tag">选得对</div>
-<h4>云产品选型与方案</h4>
-<p>架构师按业务匹配 CVM/存储/数据库/网络</p>
-</div>
-<div class="flow-step">
-<div class="flow-num">购</div>
-<div class="flow-tag">买得省</div>
-<h4>渠道采购与成本优化</h4>
-<p>华南最大代理商 · 更优价 · 统一对账</p>
+<div class="flow-num">建</div>
+<div class="flow-tag">部署快</div>
+<h4>部署方案与环境规划</h4>
+<p>域名、服务器、证书、解析与应用环境一并配齐</p>
 </div>
 <div class="flow-step">
 <div class="flow-num">迁</div>
-<div class="flow-tag">迁得稳</div>
-<h4>上云迁移与架构优化</h4>
+<div class="flow-tag">数据稳</div>
+<h4>数据迁移与架构优化</h4>
 <p>五步法平滑迁移 · 停摆时间最小化</p>
 </div>
 <div class="flow-step">
 <div class="flow-num">运</div>
-<div class="flow-tag">用得安</div>
+<div class="flow-tag">运维省</div>
 <h4>安全合规与持续运维</h4>
 <p>7×24 技术支持 · 监控告警 · 成本治理</p>
+</div>
+<div class="flow-step">
+<div class="flow-num">保</div>
+<div class="flow-tag">交付全</div>
+<h4>软件授权与年度维保</h4>
+<p>产权自有 · 按授权交付 · 版本持续迭代</p>
 </div>
 </div>
 
 <div style="text-align:center;margin-top:36px">
-<a href="/contact.html#form" class="btn btn-primary btn-lg">预约上云咨询</a>
+<a href="/contact.html#form" class="btn btn-primary btn-lg">预约部署咨询</a>
 </div>
 </div>
 </section>
@@ -411,43 +411,43 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">SERVICE MODULES</div>
-<h2 class="sec-title">四大服务环节，<span class="em">覆盖上云全周期</span></h2>
-<p class="sec-desc">选型、采购、迁移、运维四个环节覆盖企业上云全周期需求——可独立采购，也可组合使用，按企业上云阶段灵活搭配。</p>
+<h2 class="sec-title">四大服务环节，<span class="em">覆盖部署全周期</span></h2>
+<p class="sec-desc">部署、迁移、运维、维保四个环节覆盖企业私有化部署全周期需求——可独立采购，也可组合使用，按企业阶段灵活搭配。</p>
 </div>
 
 <div class="prod-grid">
 <div class="prod-card">
-<div class="prod-stage">STAGE 01 · 选得对</div>
+<div class="prod-stage">STAGE 01 · 部署快</div>
 <div class="prod-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></div>
-<h4>云产品选型与方案</h4>
-<div class="prod-scene">场景：架构师按业务匹配</div>
+<h4>部署方案与环境规划</h4>
+<div class="prod-scene">场景：全包交付一站配齐</div>
 <ul class="prod-features">
-<li>CVM / GPU / TKE / Serverless 选型</li>
-<li>存储与数据库方案设计</li>
-<li>网络与 CDN 架构规划</li>
-<li>安全合规前置规划</li>
+<li>域名、SSL 证书与域名解析办理</li>
+<li>服务器选型与环境搭建</li>
+<li>应用部署与安全加固</li>
+<li>交付验收与使用培训</li>
 </ul>
 <a href="/contact.html#form" class="prod-link">立即咨询 →</a>
 </div>
 
 <div class="prod-card">
-<div class="prod-stage">STAGE 02 · 买得省</div>
+<div class="prod-stage">STAGE 02 · 数据稳</div>
 <div class="prod-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 1v22M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
-<h4>渠道采购与成本优化</h4>
-<div class="prod-scene">场景：华南最大代理商更优价</div>
+<h4>数据迁移与架构优化</h4>
+<div class="prod-scene">场景：五步法平滑迁移</div>
 <ul class="prod-features">
-<li>渠道政策更好 · 批量采购能力</li>
-<li>价格透明 · 统一对账</li>
-<li>成本测算与预算管控</li>
-<li>告别散乱采购与海外账单</li>
+<li>现状评估 · 业务与数据盘点</li>
+<li>迁移方案 · 架构设计 · 成本测算</li>
+<li>数据迁移 · 停摆时间最小化</li>
+<li>验证切换 · 正式上线</li>
 </ul>
 <a href="/contact.html#form" class="prod-link">立即咨询 →</a>
 </div>
 
 <div class="prod-card">
-<div class="prod-stage">STAGE 03 · 迁得稳</div>
+<div class="prod-stage">STAGE 03 · 运维省</div>
 <div class="prod-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg></div>
-<h4>上云迁移与架构优化</h4>
+<h4>安全合规与持续运维</h4>
 <div class="prod-scene">场景：五步法平滑迁移</div>
 <ul class="prod-features">
 <li>现状评估 · 业务与资源盘点</li>
@@ -459,15 +459,15 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 </div>
 
 <div class="prod-card">
-<div class="prod-stage">STAGE 04 · 用得安</div>
+<div class="prod-stage">STAGE 04 · 交付全</div>
 <div class="prod-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
-<h4>安全合规与持续运维</h4>
-<div class="prod-scene">场景：7×24 技术支持</div>
+<h4>软件授权与年度维保</h4>
+<div class="prod-scene">场景：按授权交付</div>
 <ul class="prod-features">
-<li>DDoS 高防 · WAF 防火墙</li>
-<li>SSL 证书 · 数据加密</li>
-<li>等保测评支持 · 日志审计</li>
-<li>监控告警 · 成本治理</li>
+<li>软件产权自有 · 授权清单透明</li>
+<li>版本持续迭代与升级支持</li>
+<li>年度维保与现场支持可选</li>
+<li>监控告警 · 数据备份策略</li>
 </ul>
 <a href="/contact.html#form" class="prod-link">立即咨询 →</a>
 </div>
@@ -479,24 +479,24 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <section id="plan" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">CLOUD SOLUTION</div>
-<h2 class="sec-title">两种上云方案，<span class="em">按企业阶段选择</span></h2>
-<p class="sec-desc">方案 A 新业务上云适合从 0 到 1 架构设计的企业；方案 B 存量迁移优化适合已有系统希望平滑迁移与降本的企业。两种方式可独立采购，也可组合使用。</p>
+<div class="sec-eyebrow">DEPLOY SOLUTION</div>
+<h2 class="sec-title">两种部署方案，<span class="em">按企业阶段选择</span></h2>
+<p class="sec-desc">方案 A 全包新建适合从 0 到 1 搭建私有化环境的企业；方案 B 存量迁移优化适合已有系统希望平滑迁移与升级的企业。两种方式可独立采购，也可组合使用。</p>
 </div>
 
 <div class="plan-grid">
 <div class="plan-card plan-a">
 <span class="plan-badge">方案 A · 推荐</span>
-<h4>新业务上云</h4>
-<p class="plan-tagline">从 0 到 1 架构设计与部署，让新业务一开始就跑在合理架构上。</p>
+<h4>全包新建部署</h4>
+<p class="plan-tagline">从 0 到 1 全包交付：域名、服务器、证书、解析与应用部署一并配齐。</p>
 <div class="plan-rows">
-<div class="plan-row"><span class="k">适用企业</span><span class="v">新业务上线，需要从 0 设计云架构</span></div>
-<div class="plan-row"><span class="k">内容特点</span><span class="v">架构设计 + 选型 + 部署 + 安全加固</span></div>
-<div class="plan-row"><span class="k">交付形式</span><span class="v">架构师方案 + 实施部署 + 验证</span></div>
-<div class="plan-row"><span class="k">适合阶段</span><span class="v">新业务上云期</span></div>
-<div class="plan-row"><span class="k">课后支持</span><span class="v">运维保障 + 成本优化</span></div>
+<div class="plan-row"><span class="k">适用企业</span><span class="v">新系统上线，需要从 0 搭建私有化环境</span></div>
+<div class="plan-row"><span class="k">内容特点</span><span class="v">域名服务器证书解析 + 部署 + 安全加固</span></div>
+<div class="plan-row"><span class="k">交付形式</span><span class="v">方案设计 + 实施部署 + 验收培训</span></div>
+<div class="plan-row"><span class="k">适合阶段</span><span class="v">新系统部署期</span></div>
+<div class="plan-row"><span class="k">交付支持</span><span class="v">运维保障 + 年度维保</span></div>
 </div>
-<a href="/contact.html#form" class="btn btn-accent btn-lg">预约上云咨询</a>
+<a href="/contact.html#form" class="btn btn-accent btn-lg">预约部署咨询</a>
 </div>
 
 <div class="plan-card plan-b">
@@ -504,11 +504,11 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <h4>存量迁移优化</h4>
 <p class="plan-tagline">已有系统平滑迁移与成本治理，提质降本不停摆。</p>
 <div class="plan-rows">
-<div class="plan-row"><span class="k">适用企业</span><span class="v">已有自建机房或其他云，希望迁移优化</span></div>
+<div class="plan-row"><span class="k">适用企业</span><span class="v">已有系统，希望迁移到私有化环境并升级</span></div>
 <div class="plan-row"><span class="k">内容特点</span><span class="v">现状评估 + 迁移方案 + 数据迁移</span></div>
 <div class="plan-row"><span class="k">交付形式</span><span class="v">五步法迁移 + 验证切换 + 优化</span></div>
 <div class="plan-row"><span class="k">适合阶段</span><span class="v">存量迁移与降本期</span></div>
-<div class="plan-row"><span class="k">课后支持</span><span class="v">持续成本治理 + 架构迭代</span></div>
+<div class="plan-row"><span class="k">交付支持</span><span class="v">持续运维 + 架构迭代</span></div>
 </div>
 <a href="/contact.html#form" class="btn btn-primary btn-lg">预约迁移咨询</a>
 </div>
@@ -520,54 +520,54 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <section id="layer">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">CLOUD PRODUCTS</div>
-<h2 class="sec-title">6 类云服务，<span class="em">覆盖企业上云全场景</span></h2>
-<p class="sec-desc">弹性计算、云存储、云数据库、网络与 CDN、云安全、迁移与优化——六类云服务可独立采购，也可整体规划。</p>
+<div class="sec-eyebrow">DELIVERY CAPABILITIES</div>
+<h2 class="sec-title">6 类交付能力，<span class="em">覆盖部署全场景</span></h2>
+<p class="sec-desc">SaaS 订阅、私有化部署、数据迁移、运维托管、软件授权、年度维保——六类能力可独立采购，也可整体规划。</p>
 </div>
 
 <div class="layer-grid">
 <div class="layer-card">
 <div class="layer-num">01</div>
 <div class="layer-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"/></svg></div>
-<h4>弹性计算</h4>
-<div class="layer-stage">类别：CVM · GPU · TKE · Serverless</div>
-<p>从云服务器到容器与 Serverless，算力按需弹性伸缩，高峰不宕机、低谷不浪费。</p>
+<h4>SaaS 订阅</h4>
+<div class="layer-stage">模式：开箱即用 · 按席位订阅</div>
+<p>无需自建环境，浏览器打开即用；版本自动更新，按订阅规模弹性扩减。</p>
 </div>
 
 <div class="layer-card">
 <div class="layer-num">02</div>
 <div class="layer-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div>
-<h4>云存储</h4>
-<div class="layer-stage">类别：COS · CBS · 备份</div>
-<p>对象存储到云硬盘，数据分层存储控制成本，多级高可用保障不丢失。</p>
+<h4>私有化部署</h4>
+<div class="layer-stage">模式：自有或独享服务器</div>
+<p>部署在企业自有或独享服务器上，数据留在企业自己手里，产权自有、按授权交付。</p>
 </div>
 
 <div class="layer-card">
 <div class="layer-num">03</div>
 <div class="layer-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg></div>
-<h4>云数据库</h4>
-<div class="layer-stage">类别：MySQL · Redis · TDSQL</div>
-<p>核心数据高可用，主从容灾、自动备份、一键回档，重要数据不丢失。</p>
+<h4>数据迁移</h4>
+<div class="layer-stage">模式：五步法 · 停摆最小化</div>
+<p>现状评估、方案设计、数据迁移、验证切换、正式上线，重要数据不丢失。</p>
 </div>
 
 <div class="layer-card">
 <div class="layer-num">04</div>
 <div class="layer-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></div>
-<h4>网络与 CDN</h4>
-<div class="layer-stage">类别：VPC · CLB · CDN</div>
-<p>私有网络到全球加速，VPC 隔离底座 + 负载均衡 + CDN 就近接入。</p>
+<h4>运维托管</h4>
+<div class="layer-stage">模式：7×24 监控 · 持续优化</div>
+<p>监控告警、数据备份、安全加固与性能优化长期托管，系统越跑越稳。</p>
 </div>
 </div>
 
 <div class="agent-cloud">
-<span class="hot">弹性计算</span>
-<span class="hot">云存储</span>
-<span class="hot">云数据库</span>
-<span class="hot">网络与 CDN</span>
-<span>云安全</span>
-<span>迁移与优化</span>
+<span class="hot">SaaS 订阅</span>
+<span class="hot">私有化部署</span>
+<span class="hot">数据迁移</span>
+<span class="hot">运维托管</span>
+<span>软件授权</span>
+<span>年度维保</span>
 </div>
-<div class="agent-cloud-note">六类云服务可独立采购，也可整体规划——按业务需求灵活组合</div>
+<div class="agent-cloud-note">六类能力可独立采购，也可整体规划——按业务需求灵活组合</div>
 </div>
 </section>
 
@@ -575,27 +575,27 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <section class="stats-section">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">CLOUD OUTCOMES</div>
-<h2 class="sec-title">殿堂级资质，<span class="em">真实跑通的上云成果</span></h2>
-<p class="sec-desc">信朴科技累计服务超万家企业客户，覆盖 15+ 行业，让企业上云选得对、买得省、迁得稳、用得安。</p>
+<div class="sec-eyebrow">DELIVERY OUTCOMES</div>
+<h2 class="sec-title">自研底座支撑，<span class="em">真实跑通的部署成果</span></h2>
+<p class="sec-desc">信朴科技以自研软件产品为底座，让企业部署得快、数据稳、运维省、交付全。</p>
 </div>
 
 <div class="stats-grid">
 <div class="stat-card">
-<div class="stat-num"><span class="accent">10000</span><span class="unit">+</span></div>
-<div class="stat-label">累计服务企业客户</div>
+<div class="stat-num"><span class="accent">自研</span></div>
+<div class="stat-label">软件产品产权自有</div>
 </div>
 <div class="stat-card">
-<div class="stat-num"><span class="accent">15</span><span class="unit">+</span></div>
-<div class="stat-label">覆盖行业领域</div>
+<div class="stat-num"><span class="accent">双形态</span></div>
+<div class="stat-label">SaaS 订阅与私有化部署</div>
 </div>
 <div class="stat-card">
 <div class="stat-num"><span class="accent">6</span><span class="unit">类</span></div>
-<div class="stat-label">云服务产品</div>
+<div class="stat-label">交付能力模块</div>
 </div>
 <div class="stat-card">
 <div class="stat-num"><span class="accent">5</span><span class="unit">步</span></div>
-<div class="stat-label">平滑上云法</div>
+<div class="stat-label">平滑部署迁移法</div>
 </div>
 <div class="stat-card">
 <div class="stat-num"><span class="accent">7</span><span class="unit">×24</span></div>
@@ -603,7 +603,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 </div>
 <div class="stat-card">
 <div class="stat-num"><span class="accent">1</span><span class="unit">站式</span></div>
-<div class="stat-label">选型到运维</div>
+<div class="stat-label">部署到维保</div>
 </div>
 </div>
 </div>
@@ -614,14 +614,14 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">CUSTOMER CASES</div>
-<h2 class="sec-title">真实客户实践，<span class="em">验证上云可落地</span></h2>
-<p class="sec-desc">不同行业、不同业务的上云场景不同，信朴科技按「先评估、后迁移」的方式设计方案。</p>
+<h2 class="sec-title">真实客户实践，<span class="em">验证部署可落地</span></h2>
+<p class="sec-desc">不同行业、不同业务的部署场景不同，信朴科技按「先评估、后部署」的方式设计方案。</p>
 </div>
 
 <div class="case-grid">
 <div class="case-card">
 <span class="case-tag">新能源汽车 · 头部车企</span>
-<h4>弹性计算 + 云安全，支撑业务弹性与安全</h4>
+<h4>私有化部署 + 数据迁移，支撑业务平滑上线</h4>
 <div class="case-metrics">
 <div class="case-metric">
 <div class="v">弹性扩缩</div>
@@ -632,12 +632,12 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="l">DDoS 高防 + 等保支持</div>
 </div>
 </div>
-<p>通过弹性计算与 Auto Scaling 支撑业务高峰，搭配 DDoS 高防与 WAF 保障安全，云数据库主从容灾确保核心数据不丢失。</p>
+<p>按全包方式完成域名、服务器、证书与应用部署，数据迁移五步法推进、停摆最小化，上线后数据备份与监控告警持续托管。</p>
 </div>
 
 <div class="case-card">
 <span class="case-tag">智慧出行 · 网约车平台</span>
-<h4>整体上云 + 成本治理，平滑迁移提质降本</h4>
+<h4>存量系统迁移 + 运维托管，提质降本不停摆</h4>
 <div class="case-metrics">
 <div class="case-metric">
 <div class="v">五步迁移</div>
@@ -648,7 +648,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="l">统一对账 · 持续优化</div>
 </div>
 </div>
-<p>从自建机房平滑迁移上云，五步法推进业务停摆最小化，迁移后持续做成本治理与架构优化，提质降本一步到位。</p>
+<p>从存量环境平滑迁移到私有化部署，五步法推进业务停摆最小化，迁移后持续做运维托管与架构优化，提质降本一步到位。</p>
 </div>
 </div>
 </div>
@@ -658,31 +658,31 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <section id="why" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
-<div class="sec-eyebrow">WHY XOMAPS<sup>®</sup></div>
-<h2 class="sec-title">殿堂级资质，<span class="em">华南最大代理商</span></h2>
-<p class="sec-desc">资质、渠道、团队、能力——四个理由一次说清，让企业省心采购、放心上云、安心运维。</p>
+<div class="sec-eyebrow">WHY XOMAPS<sup></sup></div>
+<h2 class="sec-title">自研底座，<span class="em">双形态交付</span></h2>
+<p class="sec-desc">产品、交付、团队、能力——四个理由一次说清，让企业省心部署、放心迁移、安心运维。</p>
 </div>
 
 <div class="why-grid">
 <div class="why-card">
 <div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="7"/><path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12"/></svg></div>
-<h4>殿堂级资质</h4>
-<p>腾讯云华南殿堂级服务商（官方最高级），合同发票售后均有官方保障。</p>
+<h4>自研软件产品</h4>
+<p>软件产权自有，按授权交付，合同、发票、售后服务均有保障。</p>
 </div>
 <div class="why-card">
 <div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="M9 22V12h6v10"/></svg></div>
-<h4>华南最大代理商</h4>
-<p>渠道政策更好、价格透明、统一对账，为不同规模企业争取更优方案。</p>
+<h4>双形态交付</h4>
+<p>SaaS 订阅与私有化部署可选，支持全包交付与运维托管，报价透明。</p>
 </div>
 <div class="why-card">
 <div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/></svg></div>
 <h4>本地专业团队</h4>
-<p>近 30 人专业团队，覆盖售前选型、交付实施与售后运维，可现场支持。</p>
+<p>研发与专业技术人员为主体，覆盖售前方案、交付实施与售后运维，可现场支持。</p>
 </div>
 <div class="why-card">
 <div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/></svg></div>
-<h4>云 + AI 一站式</h4>
-<p>云资源之外同步提供 AI 培训、模型用量与 Agent 定制，上云与智能化一步到位。</p>
+<h4>部署 + AI 一站式</h4>
+<p>部署之外同步提供 AI 培训、模型用量与 Agent 定制，落地与智能化一步到位。</p>
 </div>
 </div>
 </div>
@@ -693,8 +693,8 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">INDUSTRY COVERAGE</div>
-<h2 class="sec-title">15+ 行业实践，<span class="em">累计服务超万家企业</span></h2>
-<p class="sec-desc">信朴科技的云服务实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
+<h2 class="sec-title">跨行业实践，<span class="em">自研底座持续沉淀</span></h2>
+<p class="sec-desc">信朴科技的部署实践覆盖新能源汽车、出行、装备制造、半导体、邮政、建材、知识产权、金融科技等行业。</p>
 </div>
 
 <div class="industry-cloud">
@@ -717,7 +717,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 </div>
 
 <div style="text-align:center;margin-top:36px">
-<a href="/contact.html#form" class="btn btn-primary btn-lg">预约上云咨询</a>
+<a href="/contact.html#form" class="btn btn-primary btn-lg">预约部署咨询</a>
 </div>
 </div>
 </section>
@@ -727,34 +727,34 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">HONORS & ENDORSEMENT</div>
-<h2 class="sec-title">权威认可与<span class="em">资质背书</span></h2>
-<p class="sec-desc">腾讯云华南殿堂级服务商（最高级）、腾讯云在华南最大代理商，官方渠道统一采购。</p>
+<h2 class="sec-title">我们的能力与<span class="em">交付承诺</span></h2>
+<p class="sec-desc">自研软件产品产权自有，按授权交付，长期服务行业客户。</p>
 </div>
 
 <div class="honor-list">
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云华南殿堂级服务商（最高级）</p>
+<p>自研软件产品，产权自有</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>腾讯云在华南最大代理商</p>
+<p>SaaS 订阅与私有化部署双形态</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>官方渠道统一采购，合同发票售后有保障</p>
+<p>全包交付：域名、服务器、证书与解析配齐</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>近 30 人专业团队，覆盖售前选型到售后运维</p>
+<p>研发与专业技术人员为主体，覆盖部署到运维</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>云 + AI 一站式，上云与智能化一步到位</p>
+<p>部署 + AI 一站式，落地与智能化一步到位</p>
 </div>
 <div class="honor-item">
 <div class="honor-medal"><svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-<p>年销售额约 1 亿，服务广汽埃安、如祺出行等标杆客户</p>
+<p>版本持续迭代与本地支持，长期陪伴客户</p>
 </div>
 </div>
 </div>
@@ -766,21 +766,21 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">FAQ</div>
 <h2 class="sec-title">高频问题，<span class="em">一页说清</span></h2>
-<p class="sec-desc">关于官方渠道、价格优惠、迁移可行性、安全合规与服务地区，你最关心的都在这里。</p>
+<p class="sec-desc">关于软件授权、价格、迁移可行性、安全合规与服务地区，你最关心的都在这里。</p>
 </div>
 
 <div class="faq-list">
 <details class="faq-item" open>
-<summary class="faq-q">信朴科技是腾讯云官方渠道吗？</summary>
+<summary class="faq-q">软件是自研的吗？</summary>
 <div class="faq-a">
-是的。信朴科技是<strong>腾讯云华南殿堂级服务商</strong>（官方最高级别），通过官方渠道统一采购，合同、发票、售后服务均有官方保障。
+是的。信朴科技的软件产品为<strong>自研产品，产权自有</strong>，按授权交付，合同、发票、售后服务均有保障。
 </div>
 </details>
 
 <details class="faq-item">
 <summary class="faq-q">能拿到更优惠的价格吗？</summary>
 <div class="faq-a">
-依托华南最大代理商的<strong>渠道政策与批量采购能力</strong>，信朴科技为不同规模企业争取更优方案；具体价格与优惠以双方商务确认为准，价格透明、统一对账。
+软件产权自有、按授权交付，<strong>报价透明、统一对账</strong>；具体价格与优惠以双方商务确认为准。
 </div>
 </details>
 
