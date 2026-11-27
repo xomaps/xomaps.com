@@ -921,7 +921,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 </div>
 <div class="row">
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-<div><span class="label">总部地址</span><div class="val">广州市天河区金穗路1号邦华广场</div></div>
+<div><span class="label">总部地址</span><div class="val">广州市天河区金穗路1号邦华广场5楼</div></div>
 </div>
 <div class="row">
 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7l9 6 9-6M3 7v10a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V7M3 7l2-2h14l2 2"/></svg>

@@ -323,7 +323,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="row"><span class="k">公司定位</span><span class="v">企业 AI 能力建设与应用落地服务商</span></div>
 <div class="row"><span class="k">产品形态</span><span class="v">SaaS 订阅与私有化部署双形态</span></div>
 <div class="row"><span class="k">交付能力</span><span class="v">云市场与企业微信应用上架</span></div>
-<div class="row"><span class="k">公司地址</span><span class="v">广州市天河区金穗路1号邦华广场</span></div>
+<div class="row"><span class="k">公司地址</span><span class="v">广州市天河区金穗路1号邦华广场5楼</span></div>
 <div class="row"><span class="k">商务联系</span><span class="v">冯小姐 18926108189</span></div>
 </div>
 </div>
