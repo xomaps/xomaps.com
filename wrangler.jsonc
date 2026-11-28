@@ -3,14 +3,21 @@
   // 部署命令：hugo --minify --gc && npx wrangler deploy --config wrangler.jsonc（仓库名 2026-11-22 自 www 改为 xomaps.com）
   // Worker 名不允许带点，用 xomaps-com（旧 worker "www" 2026-11-22 已删）
   // zone xomaps.com 已落位本账号（2026-11-26 确认 www.xomaps.com 200）；routes 随 deploy 一并绑定
+  // Custom Domains：xomaps.com 与 www.xomaps.com 均绑定本 worker（dashboard 配置）。
+  // 2026-11-27 起加 main 脚本：apex 一律 301 收敛到 www，避免百度等搜索引擎双入口重复内容（SEO 收录分散）。
   "name": "xomaps-com",
+  "main": "worker.js",
   "compatibility_date": "2026-11-01",
   "routes": [
     { "pattern": "www.xomaps.com", "zone_name": "xomaps.com" }
   ],
   "assets": {
     "directory": "./public",
-    // uglyURLs 模式下路径即 .html 文件，未匹配路径直接 404
+    "binding": "ASSETS",
+    // uglyURLs 模式：站内链接与 sitemap 均为 .html 直链，
+    // 必须关闭默认 auto-trailing-slash（否则每个 .html 都 307 到无后缀路径，百度视为临时重定向不合并权重）
+    "html_handling": "none",
+    // 未匹配路径直接 404
     "not_found_handling": "none"
   }
 }

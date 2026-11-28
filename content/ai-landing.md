@@ -12,24 +12,24 @@ draft: false
 /* 严格对齐众安信科落地页的克制配色 */
 --brand:#1d4ed8;          /* 蓝色主色 */
 --brand-text:#0f2c5e;     /* 深蓝文字（标题强调） */
---accent:#f97316;      /* 橙色强调（数字/CTA） */
---text:#1f2937;          /* 正文深灰（非纯黑） */
---text-2:#6b7280;        /* 次级文字 */
---text-3:#9ca3af;        /* 三级文字 */
+--accent:#d9480f;      /* 橙色强调（数字/CTA） */
+--text:#0a0e1a;          /* 正文深灰（非纯黑） */
+--text-2:#5a6577;        /* 次级文字 */
+--text-3:#9aa4b8;        /* 三级文字 */
 --bg:#ffffff;            /* 主背景：纯白 */
---bg-soft:#f9fafb;       /* 极浅灰背景 */
---bg-section:#fafbfc;    /* 区块底色 */
---border:#e5e7eb;        /* 浅灰边框 */
---border-2:#d1d5db;
---radius:8px;            /* 圆角更小、更克制 */
---radius-lg:12px;
---shadow-sm:0 1px 2px rgba(0,0,0,.04);
---shadow:0 2px 8px rgba(0,0,0,.06);
+--bg-soft:#f4f6fa;       /* 极浅灰背景 */
+--bg-section:#f4f6fa;    /* 区块底色 */
+--border:#ebedf3;        /* 浅灰边框 */
+--border-2:#d9e2f0;
+--radius:12px;            /* 圆角更小、更克制 */
+--radius-lg:18px;
+--shadow-sm:0 1px 2px rgba(10,14,26,.03);
+--shadow:0 8px 32px rgba(10,14,26,.06);
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{
-font-family:"PingFang SC","Microsoft YaHei",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+font-family:"PingFang SC","HarmonyOS Sans SC","Microsoft YaHei",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
 color:var(--text);background:var(--bg);line-height:1.7;font-size:15px;
 -webkit-font-smoothing:antialiased;overflow-x:hidden;
 }
@@ -41,7 +41,7 @@ a{color:inherit;text-decoration:none}
 .btn-primary{background:var(--brand);color:#fff;border-color:var(--brand)}
 .btn-primary:hover{background:#1e40af;border-color:#1e40af}
 .btn-accent{background:var(--accent);color:#fff;border-color:var(--accent)}
-.btn-accent:hover{background:#ea580c;border-color:#ea580c}
+.btn-accent:hover{background:#c2410c;border-color:#c2410c}
 .btn-ghost{background:#fff;color:var(--text);border-color:var(--border-2)}
 .btn-ghost:hover{border-color:var(--text);color:var(--text)}
 .btn-lg{padding:12px 32px;font-size:15px}
@@ -845,7 +845,7 @@ section,.pain-card,.prod-card,.layer-card,.why-card,.flow-step,.model-card,.case
 <div class="sec-head">
 <div class="sec-eyebrow">HONORS & ENDORSEMENT</div>
 <h2 class="sec-title">权威认可与<span class="em">资质背书</span></h2>
-<p class="sec-desc">自研软件产品产权自有，按授权交付，长期服务行业客户。</p>
+<p class="sec-desc">自研软件产品产权自有，按需求交付，长期服务行业客户。</p>
 </div>
 
 <div class="honor-list">
@@ -1357,10 +1357,10 @@ rafId = requestAnimationFrame(frame);
 --brand:#2563eb;
 --brand-2:#3b82f6;
 --brand-text:#0f2c5e;
---text:#1f2937;
+--text:#0a0e1a;
 --text-2:#4b5563;
 --bg:#ffffff;
---border:#e2e8f0;
+--border:#ebedf3;
 
 /* 底部导航条专属（淡蓝白浅色版） */
 --ft-bg:#ffffff;

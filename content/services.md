@@ -218,7 +218,7 @@ border-radius:var(--radius);transition:all .3s cubic-bezier(.22,1,.36,1)
 /* ===== CTA ===== */
 .cta-section{padding:120px 0}
 .cta-band{
-position:relative;background:#eaf2fc url(banner-visual.png) center/cover no-repeat;border-radius:var(--radius-xl);
+position:relative;background:linear-gradient(135deg,#eaf2fc 0%,#f5f8fc 55%,#e0f2fe 100%);border-radius:var(--radius-xl);
 padding:72px 64px;overflow:hidden
 }
 .cta-band::before{
@@ -384,7 +384,7 @@ padding:32px;backdrop-filter:blur(12px);display:flex;flex-direction:column;gap:2
 <div class="prod-body">
 <h3 class="prod-name">私有化部署与托管</h3>
 <span class="prod-name-en">Private Deployment</span>
-<p class="prod-desc">自研软件产品产权自有，按授权交付。私有化部署、运维托管与全包交付。</p>
+<p class="prod-desc">自研软件产品产权自有，按需求交付。私有化部署、运维托管与全包交付。</p>
 <div class="prod-tags">
 <span>私有化部署</span>
 <span>运维托管</span>
@@ -973,10 +973,10 @@ rafId = requestAnimationFrame(frame);
 --brand:#2563eb;
 --brand-2:#3b82f6;
 --brand-text:#0f2c5e;
---text:#1f2937;
+--text:#0a0e1a;
 --text-2:#4b5563;
 --bg:#ffffff;
---border:#e2e8f0;
+--border:#ebedf3;
 
 /* 底部导航条专属（淡蓝白浅色版） */
 --ft-bg:#ffffff;
@@ -990,7 +990,7 @@ rafId = requestAnimationFrame(frame);
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{
-font-family:"PingFang SC","Microsoft YaHei",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+font-family:"PingFang SC","HarmonyOS Sans SC","Microsoft YaHei",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
 color:var(--text);background:#f8fafc;line-height:1.7;font-size:15px;
 -webkit-font-smoothing:antialiased;
 }

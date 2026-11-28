@@ -1,6 +1,6 @@
 ---
 title: "关于信朴科技 | 自研软件产品与企业 AI 落地服务商"
-description: "信朴科技以自研底座为支撑，自研业务系统与 Agent 在真实业务中每日生产运行；软件产权自有、按授权交付，支持 SaaS 订阅与私有化部署，并提供企业 AI 落地、Agent 定制、AI 原生研发与云与托管 IT 服务。"
+description: "信朴科技以自研底座为支撑，自研业务系统与 Agent 在真实业务中每日生产运行；软件产权自有、按需求交付，支持 SaaS 订阅与私有化部署，并提供企业 AI 落地、Agent 定制、AI 原生研发与云与托管 IT 服务。"
 keywords: "自研软件,软件产权,企业AI落地,Agent定制,AI原生研发,私有化部署,信朴科技"
 nav: "about"
 date: 2026-11-18
@@ -11,24 +11,24 @@ draft: false
 :root{
 --brand:#1d4ed8;
 --brand-text:#0f2c5e;
---accent:#f97316;
---text:#1f2937;
---text-2:#6b7280;
---text-3:#9ca3af;
+--accent:#d9480f;
+--text:#0a0e1a;
+--text-2:#5a6577;
+--text-3:#9aa4b8;
 --bg:#ffffff;
---bg-soft:#f9fafb;
---bg-section:#fafbfc;
---border:#e5e7eb;
---border-2:#d1d5db;
---radius:8px;
---radius-lg:12px;
---shadow-sm:0 1px 2px rgba(0,0,0,.04);
---shadow:0 2px 8px rgba(0,0,0,.06);
+--bg-soft:#f4f6fa;
+--bg-section:#f4f6fa;
+--border:#ebedf3;
+--border-2:#d9e2f0;
+--radius:12px;
+--radius-lg:18px;
+--shadow-sm:0 1px 2px rgba(10,14,26,.03);
+--shadow:0 8px 32px rgba(10,14,26,.06);
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{
-font-family:"PingFang SC","Microsoft YaHei",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+font-family:"PingFang SC","HarmonyOS Sans SC","Microsoft YaHei",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
 color:var(--text);background:var(--bg);line-height:1.7;font-size:15px;
 -webkit-font-smoothing:antialiased;overflow-x:hidden;
 }
@@ -39,7 +39,7 @@ a{color:inherit;text-decoration:none}
 .btn-primary{background:var(--brand);color:#fff;border-color:var(--brand)}
 .btn-primary:hover{background:#1e40af;border-color:#1e40af}
 .btn-accent{background:var(--accent);color:#fff;border-color:var(--accent)}
-.btn-accent:hover{background:#ea580c;border-color:#ea580c}
+.btn-accent:hover{background:#c2410c;border-color:#c2410c}
 .btn-ghost{background:#fff;color:var(--text);border-color:var(--border-2)}
 .btn-ghost:hover{border-color:var(--text);color:var(--text)}
 .btn-lg{padding:12px 32px;font-size:15px}
@@ -335,7 +335,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="wrap">
 <div class="sec-head">
 <div class="sec-eyebrow">CAPABILITIES</div>
-<h2 class="sec-title">自研底座支撑，<span class="em">按授权交付</span></h2>
+<h2 class="sec-title">自研底座支撑，<span class="em">按需求交付</span></h2>
 <p class="sec-desc">从产品形态到交付方式，每一项能力都围绕企业 AI 真实落地构建。</p>
 </div>
 
@@ -394,7 +394,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="tl-item">
 <div class="tl-stage">PHASE 02 · 双形态交付</div>
 <h4>SaaS 订阅与私有化部署</h4>
-<p>产品支持 SaaS 订阅与私有化部署双形态交付，软件产权自有、按授权交付，可按客户环境完成全包交付与运维托管。</p>
+<p>产品支持 SaaS 订阅与私有化部署双形态交付，软件产权自有、按需求交付，可按客户环境完成全包交付与运维托管。</p>
 </div>
 <div class="tl-item">
 <div class="tl-stage">PHASE 03 · 服务延伸</div>
@@ -674,7 +674,7 @@ section,.prod-card,.why-card,.team-card,.value-card,.honor-item,.stat-card,.clie
 <div class="sec-head">
 <div class="sec-eyebrow">HONORS & ENDORSEMENT</div>
 <h2 class="sec-title">我们的能力与<span class="em">交付承诺</span></h2>
-<p class="sec-desc">自研软件产品产权自有，按授权交付，长期服务行业客户。</p>
+<p class="sec-desc">自研软件产品产权自有，按需求交付，长期服务行业客户。</p>
 </div>
 
 <div class="honor-list">
@@ -1134,10 +1134,10 @@ rafId = requestAnimationFrame(frame);
 --brand:#2563eb;
 --brand-2:#3b82f6;
 --brand-text:#0f2c5e;
---text:#1f2937;
+--text:#0a0e1a;
 --text-2:#4b5563;
 --bg:#ffffff;
---border:#e2e8f0;
+--border:#ebedf3;
 
 /* 底部导航条专属（淡蓝白浅色版） */
 --ft-bg:#ffffff;

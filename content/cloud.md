@@ -9,16 +9,16 @@ draft: false
 
 <style>
 :root{
---brand:#1d4ed8; --brand-text:#0f2c5e; --accent:#f97316;
---text:#1f2937; --text-2:#6b7280; --text-3:#9ca3af;
---bg:#ffffff; --bg-soft:#f9fafb; --bg-section:#fafbfc;
---border:#e5e7eb; --border-2:#d1d5db;
---radius:8px; --radius-lg:12px;
---shadow-sm:0 1px 2px rgba(0,0,0,.04); --shadow:0 2px 8px rgba(0,0,0,.06);
+--brand:#1d4ed8; --brand-text:#0f2c5e; --accent:#d9480f;
+--text:#0a0e1a; --text-2:#5a6577; --text-3:#9aa4b8;
+--bg:#ffffff; --bg-soft:#f4f6fa; --bg-section:#f4f6fa;
+--border:#ebedf3; --border-2:#d9e2f0;
+--radius:12px; --radius-lg:18px;
+--shadow-sm:0 1px 2px rgba(10,14,26,.03); --shadow:0 8px 32px rgba(10,14,26,.06);
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{font-family:"PingFang SC","Microsoft YaHei",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--text);background:var(--bg);line-height:1.7;font-size:15px;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+body{font-family:"PingFang SC","HarmonyOS Sans SC","Microsoft YaHei",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--text);background:var(--bg);line-height:1.7;font-size:15px;-webkit-font-smoothing:antialiased;overflow-x:hidden}
 a{color:inherit;text-decoration:none}
 .wrap{max-width:1200px;margin:0 auto;padding:0 24px}
 
@@ -26,7 +26,7 @@ a{color:inherit;text-decoration:none}
 .btn-primary{background:var(--brand);color:#fff;border-color:var(--brand)}
 .btn-primary:hover{background:#1e40af;border-color:#1e40af}
 .btn-accent{background:var(--accent);color:#fff;border-color:var(--accent)}
-.btn-accent:hover{background:#ea580c;border-color:#ea580c}
+.btn-accent:hover{background:#c2410c;border-color:#c2410c}
 .btn-ghost{background:#fff;color:var(--text);border-color:var(--border-2)}
 .btn-ghost:hover{border-color:var(--text);color:var(--text)}
 .btn-lg{padding:12px 32px;font-size:15px}
@@ -255,7 +255,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <span class="line1">私有化部署一站搞定</span>
 <span class="line2">部署快 数据稳 运维省 交付全</span>
 </h1>
-<p class="sub">以「部署 + 迁移 + 运维 + 维保」一站式私有化交付，域名、服务器、SSL 证书与域名解析一并配齐——软件产权自有，按授权交付。</p>
+<p class="sub">以「部署 + 迁移 + 运维 + 维保」一站式私有化交付，域名、服务器、SSL 证书与域名解析一并配齐——软件产权自有，按需求交付。</p>
 <div class="hero-chips">
 <span>SaaS 订阅</span><span>私有化部署</span><span>数据迁移</span><span>运维托管</span><span>软件授权</span><span>年度维保</span>
 </div>
@@ -396,7 +396,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="flow-num">保</div>
 <div class="flow-tag">交付全</div>
 <h4>软件授权与年度维保</h4>
-<p>产权自有 · 按授权交付 · 版本持续迭代</p>
+<p>产权自有 · 按需求交付 · 版本持续迭代</p>
 </div>
 </div>
 
@@ -462,7 +462,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="prod-stage">STAGE 04 · 交付全</div>
 <div class="prod-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
 <h4>软件授权与年度维保</h4>
-<div class="prod-scene">场景：按授权交付</div>
+<div class="prod-scene">场景：按需求交付</div>
 <ul class="prod-features">
 <li>软件产权自有 · 授权清单透明</li>
 <li>版本持续迭代与升级支持</li>
@@ -539,7 +539,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="layer-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div>
 <h4>私有化部署</h4>
 <div class="layer-stage">模式：自有或独享服务器</div>
-<p>部署在企业自有或独享服务器上，数据留在企业自己手里，产权自有、按授权交付。</p>
+<p>部署在企业自有或独享服务器上，数据留在企业自己手里，产权自有、按需求交付。</p>
 </div>
 
 <div class="layer-card">
@@ -667,7 +667,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="why-card">
 <div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="7"/><path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12"/></svg></div>
 <h4>自研软件产品</h4>
-<p>软件产权自有，按授权交付，合同、发票、售后服务均有保障。</p>
+<p>软件产权自有，按需求交付，合同、发票、售后服务均有保障。</p>
 </div>
 <div class="why-card">
 <div class="why-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="M9 22V12h6v10"/></svg></div>
@@ -728,7 +728,7 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <div class="sec-head">
 <div class="sec-eyebrow">HONORS & ENDORSEMENT</div>
 <h2 class="sec-title">我们的能力与<span class="em">交付承诺</span></h2>
-<p class="sec-desc">自研软件产品产权自有，按授权交付，长期服务行业客户。</p>
+<p class="sec-desc">自研软件产品产权自有，按需求交付，长期服务行业客户。</p>
 </div>
 
 <div class="honor-list">
@@ -773,14 +773,14 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <details class="faq-item" open>
 <summary class="faq-q">软件是自研的吗？</summary>
 <div class="faq-a">
-是的。信朴科技的软件产品为<strong>自研产品，产权自有</strong>，按授权交付，合同、发票、售后服务均有保障。
+是的。信朴科技的软件产品为<strong>自研产品，产权自有</strong>，按需求交付，合同、发票、售后服务均有保障。
 </div>
 </details>
 
 <details class="faq-item">
 <summary class="faq-q">能拿到更优惠的价格吗？</summary>
 <div class="faq-a">
-软件产权自有、按授权交付，<strong>报价透明、统一对账</strong>；具体价格与优惠以双方商务确认为准。
+软件产权自有、按需求交付，<strong>报价透明、统一对账</strong>；具体价格与优惠以双方商务确认为准。
 </div>
 </details>
 
@@ -1241,10 +1241,10 @@ rafId = requestAnimationFrame(frame);
 --brand:#2563eb;
 --brand-2:#3b82f6;
 --brand-text:#0f2c5e;
---text:#1f2937;
+--text:#0a0e1a;
 --text-2:#4b5563;
 --bg:#ffffff;
---border:#e2e8f0;
+--border:#ebedf3;
 
 /* 底部导航条专属（淡蓝白浅色版） */
 --ft-bg:#ffffff;
