@@ -986,10 +986,10 @@ rafId = requestAnimationFrame(frame);
 --brand:#2563eb;
 --brand-2:#3b82f6;
 --brand-text:#0f2c5e;
---text:#1f2937;
+--text:#0a0e1a;
 --text-2:#4b5563;
 --bg:#ffffff;
---border:#e2e8f0;
+--border:#ebedf3;
 
 /* 底部导航条专属（淡蓝白浅色版） */
 --ft-bg:#ffffff;
