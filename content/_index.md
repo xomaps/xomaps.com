@@ -485,9 +485,9 @@ section{padding:72px 0}
 -->
 </div>
 <div class="about-content">
-<p class="about-intro">广州信朴科技有限公司，<strong>企业 AI 能力建设与应用落地服务商</strong>。以自研软件产品为底座，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持——<strong>学 · 用 · 建 · 管</strong>，一站式闭环。软件产品产权自有，支持 SaaS 订阅与私有化部署，并可上架云市场与企业微信应用市场交付。</p>
+<p class="about-intro">广州信朴科技有限公司，<strong>企业 AI 能力建设与应用落地服务商</strong>。自研底座与企业级智能体平台双轨交付，围绕企业 AI 落地提供咨询、培训、工具模型、Agent 定制与内化建设的一体化支持——<strong>学 · 用 · 建 · 管</strong>，一站式闭环。软件产品产权自有，支持 SaaS 订阅与私有化部署，并可上架云市场与企业微信应用市场交付。</p>
 <div class="about-highlights">
-<div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div><div class="ah-title">自研底座</div><div class="ah-desc">软件产品产权自有，按需求交付</div></div>
+<div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div><div class="ah-title">底座双轨</div><div class="ah-desc">自研底座与企业级智能体平台，按需选型</div></div>
 <div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg></div><div class="ah-title">双形态交付</div><div class="ah-desc">SaaS 订阅与私有化部署</div></div>
 <div class="ah-item"><div class="ah-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></div><div class="ah-title">开放生态</div><div class="ah-desc">云市场与企业微信应用上架</div></div>
 </div>

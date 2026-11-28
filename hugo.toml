@@ -8,7 +8,7 @@ summaryLength = 120
 
 [params]
   author = "广州信朴科技有限公司"
-  description = "以自研底座为支撑的企业 AI 落地服务商 · 自研软件产品产权自有，按需求交付，支持 SaaS 订阅、私有化部署与云市场、企业微信应用上架"
+  description = "企业 AI 落地服务商 · 自研底座与企业级智能体平台双轨交付 · 自研软件产品产权自有，按需求交付，支持 SaaS 订阅、私有化部署与云市场、企业微信应用上架"
   phone = "18926108189"
   email = "sales@xomaps.com"
   address = "广州市天河区金穗路1号邦华广场5楼"
@@ -19,6 +19,12 @@ summaryLength = 120
 
 [markup.highlight]
   noClasses = false
+
+# HTML 压缩保留属性引号与斜杠：百度站长平台验证标签做严格字符串匹配，
+# minify 默认剥引号会导致 baidu-site-verification 验证失败
+[minify.tdewolff.html]
+  keepQuotes = true
+  keepEndTags = true
 
 # 输出：保留 .html 后缀（uglyURLs=true），静态资源原样拷贝
 [build]

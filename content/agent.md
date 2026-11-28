@@ -1,6 +1,6 @@
 ---
-title: "Agent 定制 | 基于自研底座的业务智能体 - 信朴科技"
-description: "信朴科技 Agent 定制：基于自研 AI 中台打造业务 Agent，覆盖销售助理、知识问答、流程协同与运营分析，通过 OpenAPI 与 MCP 接入企业自有系统，五步法完成从场景到交接的落地。"
+title: "Agent 定制 | 自研底座与企业级平台双轨的业务智能体 - 信朴科技"
+description: "信朴科技 Agent 定制：自研 AI 中台与企业级智能体平台双轨交付，覆盖销售助理、知识问答、流程协同与运营分析，通过 OpenAPI 与 MCP 接入企业自有系统，五步法完成从场景到交接的落地。"
 keywords: "Agent定制,自研AI中台,OpenAPI,MCP,业务智能体,信朴科技"
 nav: "services"
 date: 2026-11-18
@@ -257,9 +257,9 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 <span class="line1">Agent 定制服务</span>
 <span class="line2">让 Agent 在业务里跑起来</span>
 </h1>
-<p class="sub">以「场景诊断 + Agent 定制 + 企业知识库 + FDE 现场共创」，不止交付一个工具，而是让 Agent 真正在真实业务里跑起来。</p>
+<p class="sub">以「场景诊断 + Agent 定制 + 企业知识库 + FDE 现场共创」，不止交付一个工具，而是让 Agent 真正在真实业务里跑起来——自研底座与企业级智能体平台双轨，按企业条件选型。</p>
 <div class="hero-chips">
-<span>场景诊断</span><span>Agent 定制</span><span>企业知识库</span><span>FDE 现场共创</span>
+<span>底座双轨</span><span>场景诊断</span><span>Agent 定制</span><span>企业知识库</span><span>FDE 现场共创</span>
 </div>
 <div class="hero-cta">
 <a href="/contact.html#form" class="btn btn-accent btn-lg">预约定制咨询</a>
@@ -477,7 +477,48 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 </div>
 </section>
 
-<!-- ══════════ 4. 交付方案对比 ══════════ -->
+<!-- ══════════ 4. 底座双轨选型 ══════════ -->
+<section id="platform">
+<div class="wrap">
+<div class="sec-head">
+<div class="sec-eyebrow">DUAL PLATFORM</div>
+<h2 class="sec-title">底座双轨，<span class="em">按企业条件选型</span></h2>
+<p class="sec-desc">同一个交付方法论（诊断、FDE 共创、知识库、内化），跑在两种底座上：数据敏感与深度定制选自研底座，全员普及与轻场景快速起步选企业级智能体平台。两者可组合使用。</p>
+</div>
+
+<div class="plan-grid">
+<div class="plan-card plan-a">
+<span class="plan-badge">自研底座 · 深度</span>
+<h4>自研 AI 中台 + 业务系统</h4>
+<p class="plan-tagline">云与 AI 一体化的自研底座，软件产权自有，承载核心业务与数据合规要求高的场景。</p>
+<div class="plan-rows">
+<div class="plan-row"><span class="k">适用场景</span><span class="v">数据敏感、私有化部署、深度定制、自有系统对接</span></div>
+<div class="plan-row"><span class="k">对接能力</span><span class="v">OpenAPI 与 MCP 接入企业自有系统</span></div>
+<div class="plan-row"><span class="k">部署形态</span><span class="v">SaaS 订阅或私有化部署</span></div>
+<div class="plan-row"><span class="k">自主程度</span><span class="v">源码级控制，流程与数据自主可控</span></div>
+</div>
+<a href="/contact.html#form" class="btn btn-primary btn-lg">咨询自研底座</a>
+</div>
+
+<div class="plan-card plan-b">
+<span class="plan-badge">企业级平台 · 快速</span>
+<h4>企业级智能体平台交付</h4>
+<p class="plan-tagline">基于腾讯 WorkBuddy 等企业级智能体平台生态交付，开通即用，复用平台五类生态资产（技能、专家、连接器等）。</p>
+<div class="plan-rows">
+<div class="plan-row"><span class="k">适用场景</span><span class="v">轻量场景快速起步、全员日常使用、按席位扩展</span></div>
+<div class="plan-row"><span class="k">生态复用</span><span class="v">平台生态资产复用，场景搭建周期短</span></div>
+<div class="plan-row"><span class="k">部署形态</span><span class="v">平台 SaaS 开通，平台级安全与运维</span></div>
+<div class="plan-row"><span class="k">适合阶段</span><span class="v">AI 应用普及期与轻场景验证</span></div>
+</div>
+<a href="/contact.html#form" class="btn btn-ghost btn-lg">咨询平台交付</a>
+</div>
+</div>
+
+<div class="agent-cloud-note">两种底座可组合：平台承载全员普及与轻场景，自研底座承载核心业务与私有化部署——同一套五步法交付方法论贯穿两种底座</div>
+</div>
+</section>
+
+<!-- ══════════ 5. 交付方案对比 ══════════ -->
 <section id="plan" class="bg-soft">
 <div class="wrap">
 <div class="sec-head">
@@ -773,6 +814,13 @@ body{background:linear-gradient(135deg,#eaf2fc 0%,#ffffff 25%,#f0f6fc 50%,#fffff
 </div>
 
 <div class="faq-list">
+<details class="faq-item" open>
+<summary class="faq-q">自研底座和企业级平台（如 WorkBuddy）怎么选？</summary>
+<div class="faq-a">
+按数据敏感度、部署形态与场景深度选：<strong>数据敏感、私有化、深度定制选自研底座</strong>；全员普及、轻场景、快速起步选企业级智能体平台。两者可组合——平台做普及与轻场景，自研底座承载核心业务，信朴科技的交付方法论在两种底座上一致。
+</div>
+</details>
+
 <details class="faq-item" open>
 <summary class="faq-q">定制一个 Agent 需要多久？</summary>
 <div class="faq-a">
